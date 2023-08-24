@@ -1,0 +1,102 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "nengdai_3.moc3",
+		"Textures": [
+			"textures/texture_00.png"
+		],
+		"Physics": "nengdai_3.physics3.json",
+		"Expressions": [
+			{
+				"Name": "touch_drag1.exp3.json",
+				"File": "expressions/touch_drag1.exp3.json"
+			},
+			{
+				"Name": "touch_drag2.exp3.json",
+				"File": "expressions/touch_drag2.exp3.json"
+			},
+			{
+				"Name": "touch_drag2_2.exp3.json",
+				"File": "expressions/touch_drag2_2.exp3.json"
+			},
+			{
+				"Name": "all.exp3.json",
+				"File": "expressions/all.exp3.json"
+			},
+			{
+				"Name": "main.exp3.json",
+				"File": "expressions/main.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/mission.motion3.json"
+				},
+				{
+					"File": "motions/home.motion3.json"
+				},
+				{
+					"File": "motions/touch_special.motion3.json"
+				},
+				{
+					"File": "motions/effect.motion3.json"
+				},
+				{
+					"File": "motions/wedding.motion3.json"
+				},
+				{
+					"File": "motions/main_3.motion3.json"
+				},
+				{
+					"File": "motions/main_2.motion3.json"
+				},
+				{
+					"File": "motions/touch_head.motion3.json"
+				},
+				{
+					"File": "motions/login.motion3.json"
+				},
+				{
+					"File": "motions/touch_drag1.motion3.json"
+				},
+				{
+					"File": "motions/touch_body.motion3.json"
+				},
+				{
+					"File": "motions/main_1.motion3.json"
+				},
+				{
+					"File": "motions/mail.motion3.json"
+				},
+				{
+					"File": "motions/mission_complete.motion3.json"
+				},
+				{
+					"File": "motions/complete.motion3.json"
+				},
+				{
+					"File": "motions/mission.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}
