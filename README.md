@@ -27,4 +27,4 @@
 
 #### ANI皮肤在线预览(日本的网站,打开很慢,推荐挂日本ip的梯子)
 
-[chibi-gif](https://naganeko.pages.dev/chibi-gif/)
+[https://naganeko.pages.dev/chibi-gif/](https://naganeko.pages.dev/chibi-gif/index38)
