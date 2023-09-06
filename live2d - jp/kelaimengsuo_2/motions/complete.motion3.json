@@ -5,9 +5,9 @@
     "Fps": 60.0,
     "Loop": true,
     "CurveCount": 175,
-    "TotalSegmentCount": 1490,
-    "TotalPointCount": 1796,
-    "UserDataCount": 3,
+    "TotalSegmentCount": 1495,
+    "TotalPointCount": 1805,
+    "UserDataCount": 4,
     "TotalUserDataSize": 0
   },
   "Curves": [
@@ -1353,6 +1353,23 @@
     },
     {
       "Target": "Parameter",
+      "Id": "ParamJianbangR",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.5,
+        -18,
+        0,
+        0.917,
+        0,
+        2,
+        7.083,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "Paramdunqi",
       "Segments": [
         0,
@@ -1391,23 +1408,6 @@
         4.06,
         0,
         6.917,
-        0,
-        2,
-        7.083,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamJianbangR",
-      "Segments": [
-        0,
-        0,
-        0,
-        0.5,
-        -18,
-        0,
-        0.917,
         0,
         2,
         7.083,
@@ -1712,6 +1712,40 @@
         0,
         7.083,
         7.7
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param34",
+      "Segments": [
+        0,
+        0,
+        2,
+        3.3,
+        0,
+        0,
+        3.583,
+        10,
+        2,
+        6.083,
+        10,
+        1,
+        6.178,
+        10,
+        6.272,
+        7.198,
+        6.367,
+        0,
+        1,
+        6.4,
+        -2.54,
+        6.434,
+        -5,
+        6.467,
+        -5,
+        0,
+        7.083,
+        0
       ]
     },
     {
@@ -5953,17 +5987,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "Param34",
-      "Segments": [
-        0,
-        0,
-        0,
-        7.083,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "Param11",
       "Segments": [
         0,
@@ -6492,6 +6515,10 @@
     }
   ],
   "UserData": [
+    {
+      "Time": -0.017,
+      "Value": ""
+    },
     {
       "Time": 0.0,
       "Value": ""
