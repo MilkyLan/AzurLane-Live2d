@@ -8,7 +8,21 @@
 | --------------------- | ------------------ |
 | com.bilibili.azurlane | 国服游戏源文件     |
 | com.YoStarJP.AzurLane | 日服游戏源文件     |
-| live2d                | 角色live2d皮肤资源 |
+|live2d - jp - expression|修改版live2d,支持以表情方式查看隐藏特触|
+|live2d - jp|日服live2d资源|
+| live2d                | live2d皮肤资源 |
 | loadingbg             | loading界面背景图  |
 | painting              | 角色立绘图         |
 | spinepainting         | 角色ANI皮肤资源    |
+
+#### live2d本地查看软件
+
+[Live2D Cubism](https://www.live2d.com/zh-CHS/download/cubism-viewer-for-unity/)
+
+#### live2d在线预览
+
+[Live2D Viewer Online](https://blhx.willlan.net/)
+
+#### ANI皮肤在线预览(日本的网站,打开很慢,推荐挂日本ip的梯子)
+
+[chibi-gif](https://naganeko.pages.dev/chibi-gif/)
