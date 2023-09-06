@@ -4,16 +4,16 @@
     "Duration": 30.0,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 19,
-    "TotalSegmentCount": 208,
-    "TotalPointCount": 280,
+    "CurveCount": 22,
+    "TotalSegmentCount": 222,
+    "TotalPointCount": 302,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
-      "Id": "Param165",
+      "Id": "Param164",
       "Segments": [
         0,
         0,
@@ -28,17 +28,77 @@
     },
     {
       "Target": "Parameter",
-      "Id": "Param164",
+      "Id": "Param167",
       "Segments": [
         0,
-        0.4,
+        0.5,
         1,
         10,
-        1.4,
+        1.167,
         20,
-        2.4,
+        1.833,
         30,
-        3.4
+        2.5
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param145",
+      "Segments": [
+        0,
+        0.3,
+        0,
+        5.467,
+        0,
+        0,
+        7.2,
+        0.797,
+        1,
+        7.644,
+        0.797,
+        8.089,
+        0.81,
+        8.533,
+        0.644,
+        1,
+        9.011,
+        0.465,
+        9.489,
+        0,
+        9.967,
+        0,
+        2,
+        14.2,
+        0,
+        0,
+        16.467,
+        0.417,
+        0,
+        18.767,
+        0,
+        2,
+        20.4,
+        0,
+        0,
+        22.7,
+        1,
+        1,
+        23.244,
+        1,
+        23.789,
+        0.453,
+        24.333,
+        0.3,
+        1,
+        25.311,
+        0.025,
+        26.289,
+        0,
+        27.267,
+        0,
+        0,
+        30,
+        0.3
       ]
     },
     {
@@ -919,7 +979,29 @@
     },
     {
       "Target": "Parameter",
+      "Id": "Param165",
+      "Segments": [
+        0,
+        0.5,
+        0,
+        30,
+        0.5
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "Param25",
+      "Segments": [
+        0,
+        0,
+        0,
+        30,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param133",
       "Segments": [
         0,
         0,
