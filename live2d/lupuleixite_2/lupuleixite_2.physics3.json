@@ -1,10 +1,10 @@
 {
 	"Version": 3,
 	"Meta": {
-		"PhysicsSettingCount": 12,
-		"TotalInputCount": 36,
-		"TotalOutputCount": 34,
-		"VertexCount": 55,
+		"PhysicsSettingCount": 11,
+		"TotalInputCount": 34,
+		"TotalOutputCount": 33,
+		"VertexCount": 53,
 		"EffectiveForces": {
 			"Gravity": {
 				"X": 0,
@@ -59,10 +59,6 @@
 			{
 				"Id": "PhysicsSetting11",
 				"Name": "头饰包"
-			},
-			{
-				"Id": "PhysicsSetting12",
-				"Name": "龙头拽"
 			}
 		]
 	},
@@ -1482,76 +1478,6 @@
 					"Delay": 0.8,
 					"Acceleration": 0.65,
 					"Radius": 6
-				}
-			],
-			"Normalization": {
-				"Position": {
-					"Minimum": -10,
-					"Default": 0,
-					"Maximum": 10
-				},
-				"Angle": {
-					"Minimum": -10,
-					"Default": 0,
-					"Maximum": 10
-				}
-			}
-		},
-		{
-			"Id": "PhysicsSetting12",
-			"Input": [
-				{
-					"Source": {
-						"Target": "Parameter",
-						"Id": "touch_drag1"
-					},
-					"Weight": 25,
-					"Type": "Angle",
-					"Reflect": false
-				},
-				{
-					"Source": {
-						"Target": "Parameter",
-						"Id": "shoudongltz"
-					},
-					"Weight": 50,
-					"Type": "Angle",
-					"Reflect": false
-				}
-			],
-			"Output": [
-				{
-					"Destination": {
-						"Target": "Parameter",
-						"Id": "ParamLongY1"
-					},
-					"VertexIndex": 1,
-					"Scale": 110,
-					"Weight": 100,
-					"Type": "Angle",
-					"Reflect": false
-				}
-			],
-			"Vertices": [
-				{
-					"Position": {
-						"X": 0,
-						"Y": 0
-					},
-					"Mobility": 1,
-					"Delay": 1,
-					"Acceleration": 1,
-					"Radius": 0
-				},
-				{
-					"Position": {
-						"X": 0,
-						"Y": 10
-					},
-					"Mobility": 1,
-					"Delay": 10,
-					"Acceleration": 8,
-					"Radius": 10
 				}
 			],
 			"Normalization": {
