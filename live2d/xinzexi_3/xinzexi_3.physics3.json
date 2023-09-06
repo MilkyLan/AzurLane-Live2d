@@ -1,10 +1,11 @@
 {
 	"Version": 3,
 	"Meta": {
-		"PhysicsSettingCount": 20,
-		"TotalInputCount": 41,
-		"TotalOutputCount": 54,
-		"VertexCount": 152,
+		"PhysicsSettingCount": 21,
+		"TotalInputCount": 42,
+		"TotalOutputCount": 60,
+		"VertexCount": 157,
+		"Fps": 60,
 		"EffectiveForces": {
 			"Gravity": {
 				"X": 0,
@@ -95,6 +96,10 @@
 			{
 				"Id": "PhysicsSetting20",
 				"Name": "右腿物理"
+			},
+			{
+				"Id": "PhysicsSetting21",
+				"Name": "PPlins"
 			}
 		]
 	},
@@ -2986,6 +2991,152 @@
 					"Delay": 0.8,
 					"Acceleration": 1,
 					"Radius": 5
+				}
+			],
+			"Normalization": {
+				"Position": {
+					"Minimum": -10,
+					"Default": 0,
+					"Maximum": 10
+				},
+				"Angle": {
+					"Minimum": -10,
+					"Default": 0,
+					"Maximum": 10
+				}
+			}
+		},
+		{
+			"Id": "PhysicsSetting21",
+			"Input": [
+				{
+					"Source": {
+						"Target": "Parameter",
+						"Id": "ParamBodyAngleX"
+					},
+					"Weight": 100,
+					"Type": "X",
+					"Reflect": false
+				}
+			],
+			"Output": [
+				{
+					"Destination": {
+						"Target": "Parameter",
+						"Id": "zuodatuiwuliA"
+					},
+					"VertexIndex": 2,
+					"Scale": 40,
+					"Weight": 100,
+					"Type": "Angle",
+					"Reflect": false
+				},
+				{
+					"Destination": {
+						"Target": "Parameter",
+						"Id": "zuodatuiwuliB"
+					},
+					"VertexIndex": 3,
+					"Scale": 40,
+					"Weight": 100,
+					"Type": "Angle",
+					"Reflect": false
+				},
+				{
+					"Destination": {
+						"Target": "Parameter",
+						"Id": "Lpiguwuli"
+					},
+					"VertexIndex": 1,
+					"Scale": 40,
+					"Weight": 100,
+					"Type": "Angle",
+					"Reflect": false
+				},
+				{
+					"Destination": {
+						"Target": "Parameter",
+						"Id": "youdatuiwlA"
+					},
+					"VertexIndex": 2,
+					"Scale": 40,
+					"Weight": 100,
+					"Type": "Angle",
+					"Reflect": false
+				},
+				{
+					"Destination": {
+						"Target": "Parameter",
+						"Id": "youdatuiwlB"
+					},
+					"VertexIndex": 3,
+					"Scale": 40,
+					"Weight": 100,
+					"Type": "Angle",
+					"Reflect": false
+				},
+				{
+					"Destination": {
+						"Target": "Parameter",
+						"Id": "Rpiguwuli"
+					},
+					"VertexIndex": 1,
+					"Scale": 40,
+					"Weight": 100,
+					"Type": "Angle",
+					"Reflect": false
+				}
+			],
+			"Vertices": [
+				{
+					"Position": {
+						"X": 0,
+						"Y": 0
+					},
+					"Mobility": 1,
+					"Delay": 1,
+					"Acceleration": 1,
+					"Radius": 0
+				},
+				{
+					"Position": {
+						"X": 0,
+						"Y": 10
+					},
+					"Mobility": 0.85,
+					"Delay": 0.9,
+					"Acceleration": 1,
+					"Radius": 10
+				},
+				{
+					"Position": {
+						"X": 0,
+						"Y": 20
+					},
+					"Mobility": 0.85,
+					"Delay": 0.9,
+					"Acceleration": 1,
+					"Radius": 10
+				},
+				{
+					"Position": {
+						"X": 0,
+						"Y": 30
+					},
+					"Mobility": 0.85,
+					"Delay": 0.9,
+					"Acceleration": 1,
+					"Radius": 10
+				},
+				{
+					"Position": {
+						"X": 0,
+						"Y": 38
+					},
+					"Mobility": 0.85,
+					"Delay": 0.9,
+					"Acceleration": 0.8,
+					"Radius": 8
 				}
 			],
 			"Normalization": {
