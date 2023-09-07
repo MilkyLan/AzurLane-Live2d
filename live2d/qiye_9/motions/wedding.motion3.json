@@ -5,8 +5,8 @@
     "Fps": 60.0,
     "Loop": true,
     "CurveCount": 500,
-    "TotalSegmentCount": 10479,
-    "TotalPointCount": 12853,
+    "TotalSegmentCount": 10488,
+    "TotalPointCount": 12862,
     "UserDataCount": 3,
     "TotalUserDataSize": 0
   },
@@ -4876,6 +4876,41 @@
     },
     {
       "Target": "Parameter",
+      "Id": "ParamLegLStretch",
+      "Segments": [
+        0,
+        0,
+        2,
+        0.5,
+        0,
+        2,
+        6.5,
+        0,
+        2,
+        16.783,
+        0,
+        0,
+        17.467,
+        13,
+        0,
+        18.4,
+        0,
+        2,
+        21.6,
+        0,
+        0,
+        22.05,
+        8.14,
+        0,
+        22.483,
+        0,
+        2,
+        23,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamCrusLAngle",
       "Segments": [
         0,
@@ -4895,6 +4930,9 @@
         2,
         21.667,
         17.4,
+        0,
+        22.05,
+        20.422,
         0,
         22.483,
         0,
@@ -39063,17 +39101,6 @@
     {
       "Target": "Parameter",
       "Id": "ParamBodyStretch",
-      "Segments": [
-        0,
-        0,
-        0,
-        23,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamLegLStretch",
       "Segments": [
         0,
         0,
