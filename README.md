@@ -6,7 +6,6 @@
 
 | 文件夹名                 | 内容                                    |
 | ------------------------ | --------------------------------------- |
-| AzurLane                 | 旧文件,暂时未删                         |
 | com.bilibili.azurlane    | 国服游戏源文件                          |
 | com.YoStarJP.AzurLane    | 日服游戏源文件                          |
 | live2d - jp - expression | 修改版live2d,支持以表情方式查看隐藏特触 |
@@ -23,7 +22,7 @@
 
 #### live2d在线预览
 
-[Live2D Viewer Online](https://blhx.willlan.net/)
+[Live2D Viewer Online](https://blhx.willlan.net/) (源仓库[live2d-viewer-web](https://github.com/guansss/live2d-viewer-web)
 
 #### ANI皮肤在线预览(日本的网站,打开很慢,推荐挂日本ip的梯子)
 
