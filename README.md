@@ -8,12 +8,8 @@
 | ------------------------ | --------------------------------------- |
 | com.bilibili.azurlane    | 国服游戏源文件                          |
 | com.YoStarJP.AzurLane    | 日服游戏源文件                          |
-| live2d - jp - expression | 修改版live2d,支持以表情方式查看隐藏特触 |
-| live2d - jp              | 日服live2d资源                          |
-| live2d                   | live2d皮肤资源(建议看日服版)            |
-| loadingbg                | loading界面背景图                       |
-| painting - jp            | 日服角色立绘图                          |
-| painting                 | 角色立绘图(建议看日服版)                |
+| live2d                   | live2d皮肤资源           |
+| painting                 | 角色立绘图                |
 | spinepainting            | 角色ANI皮肤资源                         |
 
 #### live2d本地查看软件
