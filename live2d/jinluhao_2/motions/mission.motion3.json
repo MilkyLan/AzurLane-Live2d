@@ -4,9 +4,9 @@
     "Duration": 12.0,
     "Fps": 60.0,
     "Loop": true,
-    "CurveCount": 577,
-    "TotalSegmentCount": 4154,
-    "TotalPointCount": 5328,
+    "CurveCount": 580,
+    "TotalSegmentCount": 4170,
+    "TotalPointCount": 5352,
     "UserDataCount": 3,
     "TotalUserDataSize": 0
   },
@@ -1561,8 +1561,8 @@
       "Id": "ParamForearmRChange",
       "Segments": [
         0,
+        -27,
         0,
-        2,
         1,
         0,
         0,
@@ -1588,7 +1588,7 @@
         -30,
         0,
         12,
-        0
+        -27
       ]
     },
     {
@@ -3547,31 +3547,59 @@
       "Id": "ParamAngleX2",
       "Segments": [
         0,
-        2.767,
-        2,
+        -15,
+        0,
+        0.667,
+        -8.924,
         1,
-        2.767,
-        0,
-        1.917,
-        0,
+        0.856,
+        -8.924,
+        1.044,
+        -29.738,
+        1.233,
+        -29.865,
+        1,
+        1.472,
+        -30,
+        1.711,
+        -30,
+        1.95,
+        -30,
         2,
         3.317,
-        0,
+        -30,
         2,
         4,
+        -30,
+        0,
+        6.317,
         0,
         2,
-        5.9,
+        7.833,
         0,
+        0,
+        8.567,
+        -30,
         2,
-        8.233,
+        8.733,
+        -30,
         0,
-        0,
-        10.017,
-        2.767,
-        2,
+        10.683,
+        -6,
+        1,
+        10.978,
+        -6,
+        11.272,
+        -9.087,
+        11.567,
+        -12.909,
+        1,
+        11.711,
+        -14.784,
+        11.856,
+        -15,
         12,
-        2.767
+        -15
       ]
     },
     {
@@ -4647,6 +4675,55 @@
         10.533,
         0,
         2,
+        12,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_MouthForm",
+      "Segments": [
+        0,
+        0,
+        2,
+        1.183,
+        0,
+        0,
+        1.333,
+        1,
+        2,
+        4.067,
+        1,
+        2,
+        4.9,
+        1,
+        0,
+        5.2,
+        0,
+        2,
+        7.767,
+        0,
+        0,
+        8.717,
+        1,
+        0,
+        12,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenYSD2",
+      "Segments": [
+        0,
+        0,
+        2,
+        4.067,
+        0,
+        0,
+        5.2,
+        1,
+        0,
         12,
         0
       ]
@@ -15245,6 +15322,17 @@
     },
     {
       "Target": "Parameter",
+      "Id": "pbtz",
+      "Segments": [
+        0,
+        0,
+        0,
+        12,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "hongyan",
       "Segments": [
         0,
@@ -15292,10 +15380,10 @@
       "Id": "SHOUZHANGYTMD",
       "Segments": [
         0,
-        0,
+        1,
         0,
         12,
-        0
+        1
       ]
     },
     {
@@ -17797,7 +17885,18 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamNeckZ2",
+      "Id": "ParamBrowRForm2",
+      "Segments": [
+        0,
+        0,
+        0,
+        12,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRAngle2",
       "Segments": [
         0,
         0,
@@ -17842,28 +17941,6 @@
     {
       "Target": "Parameter",
       "Id": "ParamTooth2",
-      "Segments": [
-        0,
-        0,
-        0,
-        12,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param_MouthForm",
-      "Segments": [
-        0,
-        0,
-        0,
-        12,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthOpenYSD2",
       "Segments": [
         0,
         0,
@@ -19063,6 +19140,17 @@
     {
       "Target": "Parameter",
       "Id": "Paramtouch_idle",
+      "Segments": [
+        0,
+        0,
+        0,
+        12,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "touch_drag2",
       "Segments": [
         0,
         0,

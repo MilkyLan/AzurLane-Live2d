@@ -4,9 +4,9 @@
     "Duration": 5.0,
     "Fps": 60.0,
     "Loop": true,
-    "CurveCount": 577,
-    "TotalSegmentCount": 743,
-    "TotalPointCount": 825,
+    "CurveCount": 581,
+    "TotalSegmentCount": 746,
+    "TotalPointCount": 828,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
@@ -276,20 +276,6 @@
         0,
         5,
         -0.389
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamAngleX2",
-      "Segments": [
-        0,
-        -15.24,
-        0,
-        2.2,
-        -8.057,
-        0,
-        5,
-        -15.24
       ]
     },
     {
@@ -1469,6 +1455,17 @@
         1.633,
         0,
         2,
+        5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "pbtz",
+      "Segments": [
+        0,
+        0,
+        0,
         5,
         0
       ]
@@ -4434,6 +4431,17 @@
     },
     {
       "Target": "Parameter",
+      "Id": "ParamForearmRLayer3",
+      "Segments": [
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamForearmRLayer2",
       "Segments": [
         0,
@@ -4489,13 +4497,13 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamNeckZ2",
+      "Id": "ParamAngleX2",
       "Segments": [
         0,
-        0,
+        -15,
         0,
         5,
-        0
+        -15
       ]
     },
     {
@@ -4566,13 +4574,35 @@
     },
     {
       "Target": "Parameter",
+      "Id": "ParamBrowRForm2",
+      "Segments": [
+        0,
+        -0.4,
+        0,
+        5,
+        -0.4
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRAngle2",
+      "Segments": [
+        0,
+        -0.7,
+        0,
+        5,
+        -0.7
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamEyeBallX2",
       "Segments": [
         0,
-        0.7,
+        0,
         0,
         5,
-        0.7
+        0
       ]
     },
     {
@@ -4580,10 +4610,10 @@
       "Id": "ParamEyeBallY2",
       "Segments": [
         0,
-        -1,
+        0,
         0,
         5,
-        -1
+        0
       ]
     },
     {
@@ -6646,6 +6676,17 @@
     {
       "Target": "Parameter",
       "Id": "Paramtouch_idle",
+      "Segments": [
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "touch_drag2",
       "Segments": [
         0,
         0,

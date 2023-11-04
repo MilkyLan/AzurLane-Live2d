@@ -4,9 +4,9 @@
     "Duration": 4.3,
     "Fps": 60.0,
     "Loop": true,
-    "CurveCount": 577,
-    "TotalSegmentCount": 1689,
-    "TotalPointCount": 2069,
+    "CurveCount": 580,
+    "TotalSegmentCount": 1692,
+    "TotalPointCount": 2072,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -1416,7 +1416,7 @@
       "Id": "ParamAngleX2",
       "Segments": [
         0,
-        2.767,
+        -15,
         0,
         0.55,
         -23,
@@ -1428,7 +1428,7 @@
         -23,
         0,
         4.3,
-        -15.24
+        -15
       ]
     },
     {
@@ -1832,6 +1832,28 @@
     },
     {
       "Target": "Parameter",
+      "Id": "ParamBrowRForm2",
+      "Segments": [
+        0,
+        0,
+        0,
+        4.3,
+        -0.4
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRAngle2",
+      "Segments": [
+        0,
+        0,
+        0,
+        4.3,
+        -0.7
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamEyeBallX2",
       "Segments": [
         0,
@@ -1845,9 +1867,9 @@
         0,
         3.917,
         0.7,
-        2,
+        0,
         4.3,
-        0.7
+        0
       ]
     },
     {
@@ -1865,9 +1887,9 @@
         2,
         3.917,
         -1,
-        2,
+        0,
         4.3,
-        -1
+        0
       ]
     },
     {
@@ -6350,6 +6372,17 @@
     },
     {
       "Target": "Parameter",
+      "Id": "pbtz",
+      "Segments": [
+        0,
+        0,
+        0,
+        4.3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "hongyan",
       "Segments": [
         0,
@@ -8924,17 +8957,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamNeckZ2",
-      "Segments": [
-        0,
-        0,
-        0,
-        4.3,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "ParamWaistZ2",
       "Segments": [
         0,
@@ -10190,6 +10212,17 @@
     {
       "Target": "Parameter",
       "Id": "Paramtouch_idle",
+      "Segments": [
+        0,
+        0,
+        0,
+        4.3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "touch_drag2",
       "Segments": [
         0,
         0,

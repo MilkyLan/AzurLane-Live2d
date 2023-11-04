@@ -4,9 +4,9 @@
     "Duration": 16.0,
     "Fps": 60.0,
     "Loop": true,
-    "CurveCount": 577,
-    "TotalSegmentCount": 5227,
-    "TotalPointCount": 6461,
+    "CurveCount": 580,
+    "TotalSegmentCount": 5242,
+    "TotalPointCount": 6484,
     "UserDataCount": 3,
     "TotalUserDataSize": 0
   },
@@ -1679,7 +1679,7 @@
         -29.34,
         0,
         16,
-        0
+        -27
       ]
     },
     {
@@ -3741,28 +3741,57 @@
       "Id": "ParamAngleX2",
       "Segments": [
         0,
-        2.767,
+        -15,
         0,
-        1.1,
+        0.483,
+        -24,
+        0,
+        1.583,
+        0,
+        0,
+        3.167,
+        -17,
+        0,
+        3.85,
+        0,
+        0,
+        5.933,
+        -30,
+        2,
+        7.317,
+        -30,
+        2,
+        8,
+        -30,
+        0,
+        9.9,
         0,
         2,
-        2.217,
+        10.65,
         0,
+        0,
+        12.05,
+        -30,
         2,
-        3.383,
+        13.767,
+        -30,
         0,
-        2,
-        4.6,
+        14.683,
         0,
-        2,
-        9.8,
+        1,
+        14.978,
         0,
-        2,
-        10.95,
-        0,
-        0,
+        15.272,
+        -0.453,
+        15.567,
+        -4.363,
+        1,
+        15.711,
+        -6.281,
+        15.856,
+        -15,
         16,
-        2.767
+        -15
       ]
     },
     {
@@ -4774,6 +4803,40 @@
         2,
         11.717,
         30,
+        0,
+        16,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_MouthForm",
+      "Segments": [
+        0,
+        0,
+        2,
+        4.417,
+        0,
+        2,
+        4.817,
+        0,
+        0,
+        4.95,
+        1,
+        2,
+        5.9,
+        1,
+        1,
+        7.444,
+        1,
+        8.989,
+        1,
+        10.533,
+        0.999,
+        1,
+        12.355,
+        0.997,
+        14.178,
         0,
         16,
         0
@@ -18518,6 +18581,17 @@
     },
     {
       "Target": "Parameter",
+      "Id": "pbtz",
+      "Segments": [
+        0,
+        0,
+        0,
+        16,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "hongyan",
       "Segments": [
         0,
@@ -21103,7 +21177,18 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamNeckZ2",
+      "Id": "ParamBrowRForm2",
+      "Segments": [
+        0,
+        0,
+        0,
+        16,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRAngle2",
       "Segments": [
         0,
         0,
@@ -21148,17 +21233,6 @@
     {
       "Target": "Parameter",
       "Id": "ParamTooth2",
-      "Segments": [
-        0,
-        0,
-        0,
-        16,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param_MouthForm",
       "Segments": [
         0,
         0,
@@ -22402,6 +22476,17 @@
     {
       "Target": "Parameter",
       "Id": "Paramtouch_idle",
+      "Segments": [
+        0,
+        0,
+        0,
+        16,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "touch_drag2",
       "Segments": [
         0,
         0,

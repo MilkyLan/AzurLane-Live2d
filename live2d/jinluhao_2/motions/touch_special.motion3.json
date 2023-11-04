@@ -4,9 +4,9 @@
     "Duration": 11.6,
     "Fps": 60.0,
     "Loop": true,
-    "CurveCount": 577,
-    "TotalSegmentCount": 3488,
-    "TotalPointCount": 4302,
+    "CurveCount": 581,
+    "TotalSegmentCount": 3497,
+    "TotalPointCount": 4315,
     "UserDataCount": 3,
     "TotalUserDataSize": 0
   },
@@ -1090,6 +1090,32 @@
         2,
         11.6,
         0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamForearmRChange",
+      "Segments": [
+        0,
+        -27,
+        0,
+        0.683,
+        0,
+        2,
+        1.45,
+        0,
+        2,
+        3.2,
+        0,
+        2,
+        8.85,
+        0,
+        2,
+        11.4,
+        0,
+        0,
+        11.6,
+        -27
       ]
     },
     {
@@ -2433,25 +2459,22 @@
       "Id": "ParamAngleX2",
       "Segments": [
         0,
-        2.767,
-        2,
+        -15,
+        0,
         0.683,
-        2.767,
+        0,
         2,
         1.45,
-        2.767,
+        0,
         0,
         3.2,
-        -21,
+        -30,
         2,
-        8.85,
-        -21,
-        0,
         10.233,
-        -28.295,
+        -30,
         0,
         11.6,
-        2.767
+        -15
       ]
     },
     {
@@ -2877,20 +2900,20 @@
         0.789,
         0,
         5.633,
-        -10,
+        -4,
         0,
-        6.05,
-        5.914,
+        6.3,
+        4.861,
         1,
-        6.261,
-        5.914,
-        6.472,
-        2.984,
+        6.428,
+        4.861,
+        6.555,
+        1.732,
         6.683,
         -0.349,
         1,
         6.894,
-        -3.682,
+        -3.787,
         7.106,
         -4.514,
         7.317,
@@ -2957,9 +2980,6 @@
         4.917,
         0,
         0,
-        5.983,
-        30,
-        2,
         7.1,
         30,
         2,
@@ -3014,9 +3034,23 @@
         3.2,
         0,
         2,
+        7.017,
+        0,
+        0,
+        8,
+        1,
+        1,
+        8.283,
+        1,
+        8.567,
+        0.774,
         8.85,
         0,
-        0,
+        1,
+        8.911,
+        -0.167,
+        8.972,
+        -1,
         9.033,
         -1,
         0,
@@ -12417,6 +12451,17 @@
     },
     {
       "Target": "Parameter",
+      "Id": "pbtz",
+      "Segments": [
+        0,
+        0,
+        0,
+        11.6,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "hongyan",
       "Segments": [
         0,
@@ -12464,10 +12509,10 @@
       "Id": "SHOUZHANGYTMD",
       "Segments": [
         0,
-        0,
+        1,
         0,
         11.6,
-        0
+        1
       ]
     },
     {
@@ -14595,17 +14640,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamForearmRChange",
-      "Segments": [
-        0,
-        0,
-        0,
-        11.6,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "ParamForearmRLayer",
       "Segments": [
         0,
@@ -15046,6 +15080,17 @@
     },
     {
       "Target": "Parameter",
+      "Id": "ParamForearmRLayer3",
+      "Segments": [
+        0,
+        0,
+        0,
+        11.6,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamForearmRLayer2",
       "Segments": [
         0,
@@ -15101,17 +15146,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamNeckZ2",
-      "Segments": [
-        0,
-        0,
-        0,
-        11.6,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "ParamWaistZ2",
       "Segments": [
         0,
@@ -15124,6 +15158,28 @@
     {
       "Target": "Parameter",
       "Id": "ParamButtZ2",
+      "Segments": [
+        0,
+        0,
+        0,
+        11.6,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRForm2",
+      "Segments": [
+        0,
+        0,
+        0,
+        11.6,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRAngle2",
       "Segments": [
         0,
         0,
@@ -16378,6 +16434,17 @@
     {
       "Target": "Parameter",
       "Id": "Paramtouch_idle",
+      "Segments": [
+        0,
+        0,
+        0,
+        11.6,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "touch_drag2",
       "Segments": [
         0,
         0,
