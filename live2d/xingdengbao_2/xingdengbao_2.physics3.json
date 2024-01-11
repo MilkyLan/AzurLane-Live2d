@@ -2,7 +2,7 @@
 	"Version": 3,
 	"Meta": {
 		"PhysicsSettingCount": 8,
-		"TotalInputCount": 14,
+		"TotalInputCount": 15,
 		"TotalOutputCount": 48,
 		"VertexCount": 54,
 		"EffectiveForces": {
@@ -255,7 +255,16 @@
 						"Target": "Parameter",
 						"Id": "Paramwuli2"
 					},
-					"Weight": 100,
+					"Weight": 50,
+					"Type": "X",
+					"Reflect": false
+				},
+				{
+					"Source": {
+						"Target": "Parameter",
+						"Id": "ParamBodyAngleX"
+					},
+					"Weight": 25,
 					"Type": "X",
 					"Reflect": false
 				}
@@ -267,7 +276,7 @@
 						"Id": "ParamOPRX1"
 					},
 					"VertexIndex": 1,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -278,7 +287,7 @@
 						"Id": "ParamOPRX2"
 					},
 					"VertexIndex": 2,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -289,7 +298,7 @@
 						"Id": "ParamOPRY1"
 					},
 					"VertexIndex": 1,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -300,7 +309,7 @@
 						"Id": "ParamOPRY2"
 					},
 					"VertexIndex": 2,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -311,7 +320,7 @@
 						"Id": "ParamOPLX1"
 					},
 					"VertexIndex": 1,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -322,7 +331,7 @@
 						"Id": "ParamOPLX2"
 					},
 					"VertexIndex": 2,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -333,7 +342,7 @@
 						"Id": "ParamOPLY1"
 					},
 					"VertexIndex": 1,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -344,7 +353,7 @@
 						"Id": "ParamOPLY2"
 					},
 					"VertexIndex": 2,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -355,7 +364,7 @@
 						"Id": "ParamOPRY3"
 					},
 					"VertexIndex": 3,
-					"Scale": 20,
+					"Scale": 30,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -366,7 +375,7 @@
 						"Id": "ParamOPRY4"
 					},
 					"VertexIndex": 4,
-					"Scale": 20,
+					"Scale": 30,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -377,7 +386,7 @@
 						"Id": "ParamTuiRou1"
 					},
 					"VertexIndex": 1,
-					"Scale": 20,
+					"Scale": 25,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -388,7 +397,7 @@
 						"Id": "ParamTuiRou2"
 					},
 					"VertexIndex": 2,
-					"Scale": 10,
+					"Scale": 15,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -399,7 +408,7 @@
 						"Id": "ParamTuiRou3"
 					},
 					"VertexIndex": 3,
-					"Scale": 10,
+					"Scale": 15,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -410,7 +419,7 @@
 						"Id": "Param141"
 					},
 					"VertexIndex": 1,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -421,7 +430,7 @@
 						"Id": "Param142"
 					},
 					"VertexIndex": 2,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -432,7 +441,7 @@
 						"Id": "Param146"
 					},
 					"VertexIndex": 1,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
@@ -443,7 +452,7 @@
 						"Id": "Param147"
 					},
 					"VertexIndex": 2,
-					"Scale": 30,
+					"Scale": 45,
 					"Weight": 100,
 					"Type": "Angle",
 					"Reflect": false
