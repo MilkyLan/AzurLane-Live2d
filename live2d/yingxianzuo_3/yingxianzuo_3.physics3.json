@@ -2,7 +2,7 @@
 	"Version": 3,
 	"Meta": {
 		"PhysicsSettingCount": 11,
-		"TotalInputCount": 25,
+		"TotalInputCount": 26,
 		"TotalOutputCount": 23,
 		"VertexCount": 40,
 		"EffectiveForces": {
@@ -745,6 +745,15 @@
 					"Source": {
 						"Target": "Parameter",
 						"Id": "touch_drag6"
+					},
+					"Weight": 25,
+					"Type": "X",
+					"Reflect": false
+				},
+				{
+					"Source": {
+						"Target": "Parameter",
+						"Id": "Rdatuixz"
 					},
 					"Weight": 25,
 					"Type": "X",

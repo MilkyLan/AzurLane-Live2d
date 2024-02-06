@@ -4,13 +4,30 @@
     "Duration": 27.517,
     "Fps": 60.0,
     "Loop": true,
-    "CurveCount": 666,
-    "TotalSegmentCount": 7652,
-    "TotalPointCount": 11294,
+    "CurveCount": 668,
+    "TotalSegmentCount": 7656,
+    "TotalPointCount": 11298,
     "UserDataCount": 3,
     "TotalUserDataSize": 0
   },
   "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "Param192",
+      "Segments": [
+        0,
+        1,
+        2,
+        26.233,
+        1,
+        0,
+        26.267,
+        0,
+        2,
+        27.517,
+        0
+      ]
+    },
     {
       "Target": "Parameter",
       "Id": "All_X",
@@ -35442,6 +35459,17 @@
         0,
         27.517,
         0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "touch_drag19",
+      "Segments": [
+        0,
+        1,
+        0,
+        27.517,
+        1
       ]
     },
     {
