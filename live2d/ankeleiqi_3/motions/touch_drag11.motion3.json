@@ -5,8 +5,8 @@
     "Fps": 60.0,
     "Loop": true,
     "CurveCount": 696,
-    "TotalSegmentCount": 1450,
-    "TotalPointCount": 1898,
+    "TotalSegmentCount": 1452,
+    "TotalPointCount": 1900,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -171,6 +171,23 @@
         0.162,
         4,
         0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamHandLAngleX",
+      "Segments": [
+        0,
+        0.72,
+        0,
+        1.833,
+        0,
+        2,
+        2.333,
+        0,
+        0,
+        4,
+        0.72
       ]
     },
     {
@@ -6152,10 +6169,10 @@
       "Id": "ParamForearmL_C",
       "Segments": [
         0,
-        0.58,
+        0,
         0,
         4,
-        0.58
+        0
       ]
     },
     {
@@ -6381,17 +6398,6 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmLAngleY",
-      "Segments": [
-        0,
-        0,
-        0,
-        4,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamHandLAngleX",
       "Segments": [
         0,
         0,

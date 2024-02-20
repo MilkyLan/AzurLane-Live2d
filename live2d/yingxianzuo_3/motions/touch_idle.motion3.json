@@ -4,9 +4,9 @@
     "Duration": 2.917,
     "Fps": 60.0,
     "Loop": true,
-    "CurveCount": 162,
-    "TotalSegmentCount": 231,
-    "TotalPointCount": 231,
+    "CurveCount": 160,
+    "TotalSegmentCount": 229,
+    "TotalPointCount": 229,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -415,29 +415,18 @@
     },
     {
       "Target": "Parameter",
+      "Id": "sdymc",
+      "Segments": [
+        0,
+        0,
+        0,
+        2.917,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "Paramring",
-      "Segments": [
-        0,
-        0,
-        0,
-        2.917,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "touch_drag1",
-      "Segments": [
-        0,
-        0,
-        0,
-        2.917,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "touch_drag2",
       "Segments": [
         0,
         0,
@@ -548,17 +537,6 @@
     {
       "Target": "Parameter",
       "Id": "Paramtouch_idle3",
-      "Segments": [
-        0,
-        0,
-        0,
-        2.917,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "touch_drag7",
       "Segments": [
         0,
         0,
