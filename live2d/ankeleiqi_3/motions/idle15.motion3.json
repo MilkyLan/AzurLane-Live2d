@@ -4,9 +4,9 @@
     "Duration": 4.0,
     "Fps": 60.0,
     "Loop": true,
-    "CurveCount": 623,
-    "TotalSegmentCount": 1265,
-    "TotalPointCount": 1851,
+    "CurveCount": 626,
+    "TotalSegmentCount": 1268,
+    "TotalPointCount": 1854,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
@@ -6235,10 +6235,10 @@
       "Id": "ParamForearmLLayer",
       "Segments": [
         0,
-        0,
+        -0.2,
         0,
         4,
-        0
+        -0.2
       ]
     },
     {
@@ -6323,10 +6323,10 @@
       "Id": "Param180",
       "Segments": [
         0,
-        -30,
+        30,
         0,
         4,
-        -30
+        30
       ]
     },
     {
@@ -6596,6 +6596,39 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandL9Display",
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param176",
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param177",
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param178",
       "Segments": [
         0,
         0,
