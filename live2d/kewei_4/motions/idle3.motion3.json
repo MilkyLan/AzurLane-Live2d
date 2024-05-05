@@ -4,9 +4,9 @@
     "Duration": 4.0,
     "Fps": 60.0,
     "Loop": true,
-    "CurveCount": 476,
-    "TotalSegmentCount": 707,
-    "TotalPointCount": 727,
+    "CurveCount": 477,
+    "TotalSegmentCount": 708,
+    "TotalPointCount": 728,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
@@ -1282,13 +1282,24 @@
     },
     {
       "Target": "Parameter",
-      "Id": "Limit_box",
+      "Id": "Param35",
       "Segments": [
         0,
         1,
         0,
         4,
         1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Limit_box",
+      "Segments": [
+        0,
+        0,
+        0,
+        4,
+        0
       ]
     },
     {
