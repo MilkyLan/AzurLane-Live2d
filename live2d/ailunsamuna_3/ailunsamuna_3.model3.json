@@ -1,0 +1,133 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "ailunsamuna_3.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Expressions": [],
+    "Physics": "ailunsamuna_3.physics3.json",
+    "Motions": {
+      "": [
+        {
+          "File": "motions/touch_idle1.motion3.json"
+        },
+        {
+          "File": "motions/touch_idle2.motion3.json"
+        },
+        {
+          "File": "motions/main_1.motion3.json"
+        },
+        {
+          "File": "motions/main_4.motion3.json"
+        },
+        {
+          "File": "motions/feeling3.motion3.json"
+        },
+        {
+          "File": "motions/mail.motion3.json"
+        },
+        {
+          "File": "motions/mission_complete.motion3.json"
+        },
+        {
+          "File": "motions/hp_warning.motion3.json"
+        },
+        {
+          "File": "motions/login.motion3.json"
+        },
+        {
+          "File": "motions/unlock.motion3.json"
+        },
+        {
+          "File": "motions/lose.motion3.json"
+        },
+        {
+          "File": "motions/home.motion3.json"
+        },
+        {
+          "File": "motions/complete.motion3.json"
+        },
+        {
+          "File": "motions/win_mvp.motion3.json"
+        },
+        {
+          "File": "motions/idle1.motion3.json"
+        },
+        {
+          "File": "motions/effect.motion3.json"
+        },
+        {
+          "File": "motions/detail.motion3.json"
+        },
+        
+        {
+          "File": "motions/mission.motion3.json"
+        },
+        {
+          "File": "motions/touch_head.motion3.json"
+        },
+        {
+          "File": "motions/idle.motion3.json"
+        },
+        {
+          "File": "motions/main_5.motion3.json"
+        },
+        {
+          "File": "motions/main_2.motion3.json"
+        },
+        {
+          "File": "motions/skill.motion3.json"
+        },
+        {
+          "File": "motions/touch_special.motion3.json"
+        },
+        {
+          "File": "motions/main_3.motion3.json"
+        },
+        {
+          "File": "motions/feeling2.motion3.json"
+        },
+        {
+          "File": "motions/feeling5.motion3.json"
+        },
+        {
+          "File": "motions/touch_body.motion3.json"
+        },
+        
+        {
+          "File": "motions/upgrade.motion3.json"
+        },
+        {
+          "File": "motions/battle.motion3.json"
+        },
+        {
+          "File": "motions/feeling4.motion3.json"
+        },
+        {
+          "File": "motions/wedding.motion3.json"
+        },
+        {
+          "File": "motions/main_1.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    }
+  ]
+}
