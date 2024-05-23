@@ -10,7 +10,7 @@
     "CurveCount": 274,
     "TotalSegmentCount": 404,
     "TotalPointCount": 462,
-    "UserDataCount": 3,
+    "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
   "Curves": [
@@ -700,16 +700,16 @@
         0.167,
         0.803,
         0.333,
-        0.7,
+        0.805,
         0.5,
         -2.615,
         1,
         0.617,
-        -4.935,
+        -5.009,
         0.733,
-        -13.995,
+        -19.22,
         0.85,
-        -13.995,
+        -19.22,
         2,
         0.867,
         4.957,
@@ -740,7 +740,7 @@
         -28.405,
         2,
         0.867,
-        25,
+        17.905,
         0,
         1.45,
         4,
@@ -1475,6 +1475,32 @@
         1.45,
         0,
         2,
+        2.25,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamEyeBallX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        2.25,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamEyeBallY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
         2.25,
         0
       ]
@@ -2504,32 +2530,6 @@
         0,
         2.25,
         5.381
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamEyeBallX",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        2.25,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamEyeBallY",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        2.25,
-        0
       ]
     },
     {
@@ -4087,10 +4087,6 @@
     },
     {
       "Time": 0.0,
-      "Value": ""
-    },
-    {
-      "Time": 1.75,
       "Value": ""
     }
   ]
