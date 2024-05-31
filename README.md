@@ -18,7 +18,7 @@
 
 #### live2d在线预览
 
-[Live2D Viewer Online](https://blhx.willlan.net/) (源仓库[live2d-viewer-web](https://github.com/guansss/live2d-viewer-web)
+[Live2D Viewer Online](https://l2d.ruass.com) (源仓库[live2d-viewer-web](https://github.com/guansss/live2d-viewer-web)
 
 #### ANI皮肤在线预览(日本的网站,打开很慢,推荐挂日本ip的梯子)
 
