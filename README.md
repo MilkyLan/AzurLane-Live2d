@@ -12,13 +12,17 @@
 | painting                 | 角色立绘图                |
 | spinepainting            | 角色ANI皮肤资源                         |
 
+#### live2d提取工具
+
+[AssetStudio](https://github.com/aelurum/AssetStudio)
+
 #### live2d本地查看软件
 
 [Live2D Cubism](https://www.live2d.com/zh-CHS/download/cubism-viewer-for-unity/)
 
 #### live2d在线预览
 
-[Live2D Viewer Online](https://l2d.ruass.com) (源仓库[live2d-viewer-web](https://github.com/guansss/live2d-viewer-web)
+[Live2D Viewer Online](https://l2d.ruass.com) (源仓库[https://github.com/guansss/live2d-viewer-web](https://github.com/Cpk0521/CUE-live2d-Viewer))
 
 #### ANI皮肤在线预览(日本的网站,打开很慢,推荐挂日本ip的梯子)
 
