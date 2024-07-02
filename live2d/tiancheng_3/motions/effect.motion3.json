@@ -4,6 +4,9 @@
     "Duration": 6.45,
     "Fps": 60.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 7,
     "TotalSegmentCount": 36,
     "TotalPointCount": 80,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "deng",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -40,6 +45,8 @@
     {
       "Target": "Parameter",
       "Id": "xunhuanwuli",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -83,6 +90,8 @@
     {
       "Target": "Parameter",
       "Id": "shoudongwbwl",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -119,6 +128,8 @@
     {
       "Target": "Parameter",
       "Id": "waijing1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -155,6 +166,8 @@
     {
       "Target": "Parameter",
       "Id": "waijing2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1.239,
@@ -191,6 +204,8 @@
     {
       "Target": "Parameter",
       "Id": "beijshu1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -227,6 +242,8 @@
     {
       "Target": "Parameter",
       "Id": "beijshu2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.413,

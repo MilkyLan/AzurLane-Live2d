@@ -4,6 +4,9 @@
     "Duration": 8.0,
     "Fps": 60.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 22,
     "TotalSegmentCount": 102,
     "TotalPointCount": 172,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_bi1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -4.741,
@@ -45,6 +50,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_bi2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -15.369,
@@ -76,6 +83,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_bi3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -12.944,
@@ -107,6 +116,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_bi4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         4.812,
@@ -138,6 +149,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_L_songX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -29.086,
@@ -158,6 +171,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_L_songY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.332,
@@ -189,6 +204,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_L_song2X",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -25.682,
@@ -220,6 +237,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_L_song2Y",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -12.01,
@@ -251,6 +270,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_R_songX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -28.372,
@@ -282,6 +303,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_R_songY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         5.872,
@@ -313,6 +336,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Z_songX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -25.682,
@@ -344,6 +369,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Z_songY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         12.422,
@@ -375,6 +402,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_zhuoji_L_xiezi",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -393,6 +422,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_zhuoji_L_cahan",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -431,6 +462,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_zhuoji_L_bianxing",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -473,6 +506,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_zhuoji_R_mo",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -505,6 +540,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_zhuoji_L_daimaoX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         6.387,
@@ -536,6 +573,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_zhuoji_L_daimaoY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         7.134,
@@ -589,6 +628,8 @@
     {
       "Target": "Model",
       "Id": "Opacity",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -600,6 +641,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_zhuoji_R_zui",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -611,6 +654,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_zhuoji_R_jing",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -622,6 +667,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_zhuoji_R_bianxing",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
