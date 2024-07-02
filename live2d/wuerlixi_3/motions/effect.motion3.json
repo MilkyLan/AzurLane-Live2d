@@ -4,6 +4,9 @@
     "Duration": 7.917,
     "Fps": 60.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 2,
     "TotalSegmentCount": 9,
     "TotalPointCount": 13,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "yanchenB",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -38,6 +43,8 @@
     {
       "Target": "Parameter",
       "Id": "yanchenC",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
