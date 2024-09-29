@@ -4,6 +4,9 @@
     "Duration": 7.5,
     "Fps": 60.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 14,
     "TotalSegmentCount": 113,
     "TotalPointCount": 181,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamManjiu_X",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -11.375,
@@ -59,6 +64,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamManjiu_Y",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.411,
@@ -104,6 +111,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamManjiu_Z1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         22.598,
@@ -124,6 +133,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamManjiu_Z2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.869,
@@ -169,6 +180,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamManjiu_AllY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -3.968,
@@ -232,6 +245,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamManjiu_AhogeZ1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         30,
@@ -270,6 +285,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamManjiu_AhogeZ2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         15.63,
@@ -333,6 +350,8 @@
     {
       "Target": "Parameter",
       "Id": "ParaPillow1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -22.598,
@@ -353,6 +372,8 @@
     {
       "Target": "Parameter",
       "Id": "ParaPillow2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.869,
@@ -398,6 +419,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShine1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -30,
@@ -436,6 +459,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShine2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -15.63,
@@ -499,6 +524,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShine3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         13.29,
@@ -562,6 +589,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLight1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -580,6 +609,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLight2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,

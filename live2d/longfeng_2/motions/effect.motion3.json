@@ -4,6 +4,9 @@
     "Duration": 24.0,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 12,
     "TotalSegmentCount": 265,
     "TotalPointCount": 507,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCaoYaoFrontL",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -1,
@@ -91,6 +96,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCaoYaoMiddleL",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.852,
@@ -179,6 +186,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCaoYaoFrontR",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -256,6 +265,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCaoYaoMiddleR",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.852,
@@ -344,6 +355,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCaoYaoBackR",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.481,
@@ -410,6 +423,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamKusaHimoUD",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -494,6 +509,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamZhiRYao",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.33,
@@ -686,6 +703,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamZhiLYao",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -1,
@@ -857,6 +876,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamKusaDuiRYao",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.17,
@@ -1004,6 +1025,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamKusaDuiMYao",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.082,
@@ -1151,6 +1174,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamKusaDuiLYao",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.015,
@@ -1298,6 +1323,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamJianFu1Yao",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -1,

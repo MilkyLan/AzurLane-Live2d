@@ -4,16 +4,21 @@
     "Duration": 5.0,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 9,
     "TotalSegmentCount": 17,
     "TotalPointCount": 39,
-    "UserDataCount": 0,
+    "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
       "Id": "ParamPigBreath",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -28,6 +33,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamZZZ",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -43,6 +50,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamZZZ2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -4,
@@ -58,6 +67,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamZZZ3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -8,
@@ -73,6 +84,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamZZZ4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -12,
@@ -88,6 +101,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamZZZ5",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -16,
@@ -103,6 +118,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamKanon1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -10.128,
@@ -128,6 +145,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamKanon2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -1.751,
@@ -153,6 +172,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamKanon3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         3.032,
@@ -176,5 +197,10 @@
       ]
     }
   ],
-  "UserData": []
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
 }

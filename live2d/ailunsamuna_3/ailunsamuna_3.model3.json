@@ -1,132 +1,197 @@
 {
   "Version": 3,
+  "Name": "ailunsamuna_3",
   "FileReferences": {
     "Moc": "ailunsamuna_3.moc3",
     "Textures": [
       "textures/texture_00.png"
     ],
-    "Expressions": [],
+    "DisplayInfo": null,
     "Physics": "ailunsamuna_3.physics3.json",
     "Motions": {
-      "": [
-        {
-          "File": "motions/touch_idle1.motion3.json"
-        },
-        {
-          "File": "motions/touch_idle2.motion3.json"
-        },
-        {
-          "File": "motions/main_1.motion3.json"
-        },
-        {
-          "File": "motions/main_4.motion3.json"
-        },
-        {
-          "File": "motions/feeling3.motion3.json"
-        },
-        {
-          "File": "motions/mail.motion3.json"
-        },
-        {
-          "File": "motions/mission_complete.motion3.json"
-        },
-        {
-          "File": "motions/hp_warning.motion3.json"
-        },
-        {
-          "File": "motions/login.motion3.json"
-        },
-        {
-          "File": "motions/unlock.motion3.json"
-        },
-        {
-          "File": "motions/lose.motion3.json"
-        },
-        {
-          "File": "motions/home.motion3.json"
-        },
-        {
-          "File": "motions/complete.motion3.json"
-        },
-        {
-          "File": "motions/win_mvp.motion3.json"
-        },
-        {
-          "File": "motions/idle1.motion3.json"
-        },
-        {
-          "File": "motions/effect.motion3.json"
-        },
-        {
-          "File": "motions/detail.motion3.json"
-        },
-        
-        {
-          "File": "motions/mission.motion3.json"
-        },
-        {
-          "File": "motions/touch_head.motion3.json"
-        },
-        {
-          "File": "motions/idle.motion3.json"
-        },
-        {
-          "File": "motions/main_5.motion3.json"
-        },
-        {
-          "File": "motions/main_2.motion3.json"
-        },
-        {
-          "File": "motions/skill.motion3.json"
-        },
-        {
-          "File": "motions/touch_special.motion3.json"
-        },
-        {
-          "File": "motions/main_3.motion3.json"
-        },
-        {
-          "File": "motions/feeling2.motion3.json"
-        },
-        {
-          "File": "motions/feeling5.motion3.json"
-        },
-        {
-          "File": "motions/touch_body.motion3.json"
-        },
-        
-        {
-          "File": "motions/upgrade.motion3.json"
-        },
+      "battle": [
         {
           "File": "motions/battle.motion3.json"
-        },
+        }
+      ],
+      "complete": [
+        {
+          "File": "motions/complete.motion3.json"
+        }
+      ],
+      "detail": [
+        {
+          "File": "motions/detail.motion3.json"
+        }
+      ],
+      "effect": [
+        {
+          "File": "motions/effect.motion3.json"
+        }
+      ],
+      "feeling1": [
+        {
+          "File": "motions/feeling1.motion3.json"
+        }
+      ],
+      "feeling2": [
+        {
+          "File": "motions/feeling2.motion3.json"
+        }
+      ],
+      "feeling3": [
+        {
+          "File": "motions/feeling3.motion3.json"
+        }
+      ],
+      "feeling4": [
         {
           "File": "motions/feeling4.motion3.json"
-        },
+        }
+      ],
+      "feeling5": [
         {
-          "File": "motions/wedding.motion3.json"
-        },
+          "File": "motions/feeling5.motion3.json"
+        }
+      ],
+      "home": [
+        {
+          "File": "motions/home.motion3.json"
+        }
+      ],
+      "hp_warning": [
+        {
+          "File": "motions/hp_warning.motion3.json"
+        }
+      ],
+      "idle": [
+        {
+          "File": "motions/idle.motion3.json"
+        }
+      ],
+      "idle1": [
+        {
+          "File": "motions/idle1.motion3.json"
+        }
+      ],
+      "login": [
+        {
+          "File": "motions/login.motion3.json"
+        }
+      ],
+      "lose": [
+        {
+          "File": "motions/lose.motion3.json"
+        }
+      ],
+      "mail": [
+        {
+          "File": "motions/mail.motion3.json"
+        }
+      ],
+      "main_1": [
         {
           "File": "motions/main_1.motion3.json"
         }
+      ],
+      "main_2": [
+        {
+          "File": "motions/main_2.motion3.json"
+        }
+      ],
+      "main_3": [
+        {
+          "File": "motions/main_3.motion3.json"
+        }
+      ],
+      "main_4": [
+        {
+          "File": "motions/main_4.motion3.json"
+        }
+      ],
+      "main_5": [
+        {
+          "File": "motions/main_5.motion3.json"
+        }
+      ],
+      "mission": [
+        {
+          "File": "motions/mission.motion3.json"
+        }
+      ],
+      "mission_complete": [
+        {
+          "File": "motions/mission_complete.motion3.json"
+        }
+      ],
+      "skill": [
+        {
+          "File": "motions/skill.motion3.json"
+        }
+      ],
+      "touch_body": [
+        {
+          "File": "motions/touch_body.motion3.json"
+        }
+      ],
+      "touch_head": [
+        {
+          "File": "motions/touch_head.motion3.json"
+        }
+      ],
+      "touch_idle1": [
+        {
+          "File": "motions/touch_idle1.motion3.json"
+        }
+      ],
+      "touch_idle2": [
+        {
+          "File": "motions/touch_idle2.motion3.json"
+        }
+      ],
+      "touch_special": [
+        {
+          "File": "motions/touch_special.motion3.json"
+        }
+      ],
+      "unlock": [
+        {
+          "File": "motions/unlock.motion3.json"
+        }
+      ],
+      "upgrade": [
+        {
+          "File": "motions/upgrade.motion3.json"
+        }
+      ],
+      "wedding": [
+        {
+          "File": "motions/wedding.motion3.json"
+        }
+      ],
+      "win_mvp": [
+        {
+          "File": "motions/win_mvp.motion3.json"
+        }
       ]
-    }
+    },
+    "Expressions": []
   },
   "Groups": [
     {
       "Target": "Parameter",
-      "Name": "LipSync",
+      "Name": "EyeBlink",
       "Ids": [
-        "ParamMouthOpenY"
+        "ParamEyeROpen2",
+        "ParamEyeLOpen1",
+        "ParamEyeROpen1"
       ]
     },
     {
       "Target": "Parameter",
-      "Name": "EyeBlink",
+      "Name": "LipSync",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamMouthOpenY1"
       ]
     }
   ]

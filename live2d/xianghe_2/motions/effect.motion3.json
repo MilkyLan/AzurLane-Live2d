@@ -4,6 +4,9 @@
     "Duration": 13.0,
     "Fps": 60.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 2,
     "TotalSegmentCount": 3,
     "TotalPointCount": 7,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "baiwutexiao",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -29,6 +34,8 @@
     {
       "Target": "Parameter",
       "Id": "qiwu",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,

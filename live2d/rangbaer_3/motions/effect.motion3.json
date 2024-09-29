@@ -4,6 +4,9 @@
     "Duration": 60.0,
     "Fps": 60.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 7,
     "TotalSegmentCount": 636,
     "TotalPointCount": 850,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "Paramyunld",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         4,
@@ -29,6 +34,8 @@
     {
       "Target": "Parameter",
       "Id": "Paramcx",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -7,
@@ -61,6 +68,8 @@
     {
       "Target": "Parameter",
       "Id": "Paramcy",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         24,
@@ -93,6 +102,8 @@
     {
       "Target": "Parameter",
       "Id": "Paramlzwl",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.002,
@@ -832,6 +843,8 @@
     {
       "Target": "Parameter",
       "Id": "Paramlzx",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.007,
@@ -1323,6 +1336,8 @@
     {
       "Target": "Parameter",
       "Id": "Paramlzxz",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.004,
@@ -1911,6 +1926,8 @@
     {
       "Target": "Parameter",
       "Id": "Paramlzts",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,

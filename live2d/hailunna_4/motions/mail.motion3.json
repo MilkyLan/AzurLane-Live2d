@@ -4,9 +4,12 @@
     "Duration": 5.833,
     "Fps": 60.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 358,
     "TotalSegmentCount": 2859,
-    "TotalPointCount": 3605,
+    "TotalPointCount": 3591,
     "UserDataCount": 3,
     "TotalUserDataSize": 0
   },
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmLLayer",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -54,6 +59,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmLLayer3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -83,6 +90,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamArmLAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -144,6 +153,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamArmLChange",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -161,6 +172,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmLAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -229,6 +242,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmLChange",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -269,6 +284,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmLStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -286,6 +303,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandLAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -371,6 +390,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHand_L",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -388,17 +409,15 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmLStretch3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
         2,
         0.317,
         0,
-        1,
-        0.322,
         0,
-        0.328,
-        22,
         0.333,
         22,
         0,
@@ -421,6 +440,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandLAnimation",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -463,11 +484,7 @@
         0,
         5.633,
         -30,
-        1,
-        5.639,
-        -30,
-        5.644,
-        30,
+        0,
         5.65,
         30,
         0,
@@ -478,6 +495,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamChui_L",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -503,6 +522,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandLREDisplay",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         30,
@@ -519,11 +540,7 @@
         2,
         5.633,
         0,
-        1,
-        5.639,
         0,
-        5.644,
-        30,
         5.65,
         30,
         2,
@@ -534,6 +551,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandL2Display",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -550,10 +569,6 @@
         2,
         5.633,
         30,
-        1,
-        5.639,
-        30,
-        5.644,
         0,
         5.65,
         0,
@@ -565,6 +580,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamArmRAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -640,6 +657,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamArmRChange",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -666,6 +685,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmRAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -774,6 +795,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmRChange",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -828,6 +851,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandRAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -914,6 +939,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmRStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -964,10 +991,6 @@
         0,
         5.117,
         19,
-        1,
-        5.122,
-        19,
-        5.128,
         0,
         5.133,
         0,
@@ -979,6 +1002,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHand_R",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1023,6 +1048,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHand_R_Change2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1063,6 +1090,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandRChange",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1101,6 +1130,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandRAnimation",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1200,6 +1231,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandRREDisplay",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         30,
@@ -1226,6 +1259,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandR3Display",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1241,10 +1276,6 @@
         2,
         5.117,
         30,
-        1,
-        5.122,
-        30,
-        5.128,
         0,
         5.133,
         0,
@@ -1256,6 +1287,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMail",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1286,6 +1319,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMail2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1298,10 +1333,6 @@
         2,
         5.183,
         30,
-        1,
-        5.189,
-        30,
-        5.194,
         0,
         5.2,
         0,
@@ -1313,6 +1344,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMail_B",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1343,6 +1376,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMail_B2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1370,6 +1405,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMail_Shan",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1400,6 +1437,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMail_X",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1435,6 +1474,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMail_Z",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1527,6 +1568,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMail_Light",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1568,6 +1611,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLegRStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1608,6 +1653,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCrusRStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1642,6 +1689,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamFoodRAngleY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1728,6 +1777,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLegRAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1765,6 +1816,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLegRAngle2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1785,6 +1838,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCrusRAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1811,6 +1866,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamFoodRAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1842,6 +1899,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLeg_R_S",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1865,6 +1924,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLeg_R_Change",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1919,6 +1980,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLeg_L_Z",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -1981,6 +2044,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamAngleX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2030,6 +2095,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamAngleY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2067,6 +2134,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamAngleZ",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2154,6 +2223,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamBodyAngleX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2233,6 +2304,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamBodyAngleY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2320,6 +2393,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamBodyStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2346,6 +2421,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamBody_Y",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2421,6 +2498,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamBody_Y2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2478,6 +2557,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShoulderLStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2546,6 +2627,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShoulderRStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2612,6 +2695,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamChestZ",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2677,6 +2762,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamWaistZ",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2746,6 +2833,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamBodyAngleZ",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2811,6 +2900,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamBrowLForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2867,6 +2958,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamBrowLAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2911,6 +3004,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamBrowRForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -2967,6 +3062,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamBrowRAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3011,6 +3108,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamEyeLOpen",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -3049,6 +3148,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamEyeROpen",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -3087,6 +3188,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamEyeformL",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3125,6 +3228,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamEyeformR",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3163,6 +3268,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamEyesform",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3192,6 +3299,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamEyeLsize",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3218,6 +3327,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamEyeRsize",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3238,6 +3349,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamEyeBallX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3275,6 +3388,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamEyeBallY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3301,6 +3416,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMouthForm2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3438,6 +3555,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.6,
@@ -3569,6 +3688,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3712,6 +3833,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamTeeth",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3733,11 +3856,7 @@
         0,
         0.483,
         0,
-        1,
-        0.505,
         0,
-        0.528,
-        -30,
         0.55,
         -30,
         1,
@@ -3806,6 +3925,10 @@
         0,
         3.25,
         30,
+        1,
+        3.272,
+        30,
+        3.295,
         0,
         3.317,
         0,
@@ -3838,6 +3961,8 @@
     {
       "Target": "Parameter",
       "Id": "Hair_physics",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3876,6 +4001,8 @@
     {
       "Target": "Parameter",
       "Id": "OP_physics",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -3920,6 +4047,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamOppai_PhyY1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.49,
@@ -3983,6 +4112,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamOppai_PhyY2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.859,
@@ -4046,6 +4177,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamGuajianZ1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.079,
@@ -4103,6 +4236,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamGuajianZ2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.166,
@@ -4166,6 +4301,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLiuhai_Phy_Z1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.892,
@@ -4217,6 +4354,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLiuhai_Phy_Z2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.174,
@@ -4271,6 +4410,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLiuhai_Phy_Z3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -1.459,
@@ -4325,6 +4466,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLiuhai_L_Phy_Z1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.919,
@@ -4388,6 +4531,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLiuhai_L_Phy_Z2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.184,
@@ -4442,6 +4587,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLiuhai_L_Phy_Z3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -1.506,
@@ -4496,6 +4643,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLiuhai_R_Phy_Z1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.889,
@@ -4547,6 +4696,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLiuhai_R_Phy_Z2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.173,
@@ -4601,6 +4752,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLiuhai_R_Phy_Z3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -1.455,
@@ -4655,6 +4808,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation22",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.001,
@@ -4700,6 +4855,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation25",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.011,
@@ -4751,6 +4908,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation26",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.011,
@@ -4802,6 +4961,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation27",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.071,
@@ -4846,6 +5007,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation28",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.071,
@@ -4890,6 +5053,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation29",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.042,
@@ -4938,6 +5103,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation30",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.042,
@@ -4986,6 +5153,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation31",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.293,
@@ -5034,6 +5203,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation32",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.293,
@@ -5082,6 +5253,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation46",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.654,
@@ -5133,6 +5306,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation105",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.654,
@@ -5184,6 +5359,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation106",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -5229,6 +5406,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation107",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.008,
@@ -5280,6 +5459,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation108",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.008,
@@ -5331,6 +5512,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation109",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.051,
@@ -5375,6 +5558,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation110",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.051,
@@ -5419,6 +5604,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation111",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.03,
@@ -5467,6 +5654,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation112",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.03,
@@ -5515,6 +5704,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation113",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.209,
@@ -5563,6 +5754,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation114",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.209,
@@ -5611,6 +5804,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation116",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.467,
@@ -5662,6 +5857,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation117",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.009,
@@ -5713,6 +5910,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation118",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.061,
@@ -5757,6 +5956,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation119",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.061,
@@ -5801,6 +6002,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation120",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.036,
@@ -5849,6 +6052,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation121",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.036,
@@ -5897,6 +6102,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation122",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.251,
@@ -5945,6 +6152,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation123",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.251,
@@ -5993,6 +6202,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation124",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -6038,6 +6249,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation125",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.005,
@@ -6089,6 +6302,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation126",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.005,
@@ -6140,6 +6355,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation127",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.035,
@@ -6184,6 +6401,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation128",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.035,
@@ -6228,6 +6447,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation129",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.021,
@@ -6276,6 +6497,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation130",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.021,
@@ -6324,6 +6547,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation131",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.146,
@@ -6372,6 +6597,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation132",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.146,
@@ -6420,6 +6647,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation133",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.327,
@@ -6471,6 +6700,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation134",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -6519,6 +6750,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation135",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.003,
@@ -6570,6 +6803,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation136",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.003,
@@ -6621,6 +6856,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation137",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.022,
@@ -6665,6 +6902,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation138",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.022,
@@ -6709,6 +6948,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation139",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.013,
@@ -6757,6 +6998,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation140",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.013,
@@ -6805,6 +7048,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation141",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.092,
@@ -6853,6 +7098,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation142",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.092,
@@ -6901,6 +7148,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation143",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.206,
@@ -6952,6 +7201,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation145",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.009,
@@ -7003,6 +7254,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation146",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.009,
@@ -7054,6 +7307,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation147",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.061,
@@ -7098,6 +7353,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation148",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.061,
@@ -7142,6 +7399,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation149",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.036,
@@ -7190,6 +7449,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation150",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.036,
@@ -7238,6 +7499,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation151",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.251,
@@ -7286,6 +7549,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation152",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.251,
@@ -7334,6 +7599,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation153",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.251,
@@ -7382,6 +7649,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation155",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.001,
@@ -7427,6 +7696,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation156",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.011,
@@ -7478,6 +7749,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation157",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.011,
@@ -7529,6 +7802,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation158",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.071,
@@ -7573,6 +7848,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation159",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.071,
@@ -7617,6 +7894,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation160",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.042,
@@ -7665,6 +7944,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation161",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.042,
@@ -7713,6 +7994,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation162",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.292,
@@ -7767,6 +8050,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation163",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.292,
@@ -7821,6 +8106,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation164",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.654,
@@ -7872,6 +8159,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation167",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.007,
@@ -7923,6 +8212,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation168",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.044,
@@ -7967,6 +8258,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation169",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.044,
@@ -8011,6 +8304,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation170",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.026,
@@ -8059,6 +8354,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation171",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.026,
@@ -8107,6 +8404,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation172",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.183,
@@ -8158,6 +8457,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation173",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.183,
@@ -8209,6 +8510,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation174",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.411,
@@ -8254,6 +8557,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation175",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.411,
@@ -8299,6 +8604,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation165",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -8344,6 +8651,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation166",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.005,
@@ -8395,6 +8704,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation176",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.005,
@@ -8446,6 +8757,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation177",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.035,
@@ -8490,6 +8803,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation178",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.035,
@@ -8534,6 +8849,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation179",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.021,
@@ -8582,6 +8899,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation180",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.021,
@@ -8630,6 +8949,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation181",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.146,
@@ -8681,6 +9002,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation182",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.146,
@@ -8732,6 +9055,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation183",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.327,
@@ -8777,6 +9102,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation186",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -8822,6 +9149,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation187",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.003,
@@ -8873,6 +9202,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation188",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.003,
@@ -8924,6 +9255,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation191",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.022,
@@ -8968,6 +9301,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation192",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.022,
@@ -9012,6 +9347,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation193",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.013,
@@ -9060,6 +9397,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation194",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.013,
@@ -9108,6 +9447,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation195",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.092,
@@ -9159,6 +9500,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation196",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.092,
@@ -9210,6 +9553,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation197",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.205,
@@ -9255,6 +9600,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation198",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.01,
@@ -9306,6 +9653,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation199",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.01,
@@ -9357,6 +9706,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation200",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.067,
@@ -9398,6 +9749,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation201",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.067,
@@ -9439,6 +9792,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation202",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.04,
@@ -9487,6 +9842,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation203",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.04,
@@ -9535,6 +9892,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation204",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.275,
@@ -9586,6 +9945,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation205",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.275,
@@ -9637,6 +9998,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation240",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.011,
@@ -9688,6 +10051,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation241",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.071,
@@ -9732,6 +10097,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation242",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.071,
@@ -9776,6 +10143,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation243",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.042,
@@ -9824,6 +10193,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation244",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.042,
@@ -9872,6 +10243,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation245",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.292,
@@ -9926,6 +10299,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation246",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.292,
@@ -9980,6 +10355,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation247",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.654,
@@ -10031,6 +10408,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation248",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.654,
@@ -10082,6 +10461,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation249",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.014,
@@ -10133,6 +10514,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation250",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.014,
@@ -10184,6 +10567,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation251",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.091,
@@ -10228,6 +10613,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation252",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.091,
@@ -10272,6 +10659,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation253",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.054,
@@ -10323,6 +10712,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation254",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.054,
@@ -10374,6 +10765,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation255",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.375,
@@ -10431,6 +10824,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation256",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.375,
@@ -10488,6 +10883,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation257",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.84,
@@ -10539,6 +10936,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation258",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.081,
@@ -10583,6 +10982,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation259",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.081,
@@ -10627,6 +11028,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation260",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.048,
@@ -10678,6 +11081,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation261",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.048,
@@ -10729,6 +11134,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation262",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.333,
@@ -10783,6 +11190,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation263",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.333,
@@ -10837,6 +11246,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation47",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.013,
@@ -10888,6 +11299,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation48",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.081,
@@ -10936,6 +11349,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation62",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.081,
@@ -10984,6 +11399,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation63",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.048,
@@ -11032,6 +11449,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation66",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.048,
@@ -11080,6 +11499,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation68",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.335,
@@ -11128,6 +11549,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation69",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.335,
@@ -11176,6 +11599,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation70",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.011,
@@ -11227,6 +11652,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation71",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.071,
@@ -11271,6 +11698,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation72",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.071,
@@ -11315,6 +11744,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation73",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.042,
@@ -11363,6 +11794,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation74",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.042,
@@ -11411,6 +11844,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation75",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.293,
@@ -11459,6 +11894,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation76",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.293,
@@ -11507,6 +11944,8 @@
     {
       "Target": "Parameter",
       "Id": "Param_Angle_Rotation77",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.654,
@@ -11558,6 +11997,8 @@
     {
       "Target": "Parameter",
       "Id": "touch_drag1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11569,6 +12010,8 @@
     {
       "Target": "Parameter",
       "Id": "touch_drag2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11580,6 +12023,8 @@
     {
       "Target": "Parameter",
       "Id": "touch_drag3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11591,6 +12036,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamDragchange",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11602,6 +12049,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamModel",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11613,6 +12062,8 @@
     {
       "Target": "Parameter",
       "Id": "MB_DRFWXZKTMD",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11624,6 +12075,8 @@
     {
       "Target": "Parameter",
       "Id": "Param17",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11635,6 +12088,8 @@
     {
       "Target": "Parameter",
       "Id": "Param16",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11646,6 +12101,8 @@
     {
       "Target": "Parameter",
       "Id": "Param18",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11657,6 +12114,8 @@
     {
       "Target": "Parameter",
       "Id": "FG_White",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11668,6 +12127,8 @@
     {
       "Target": "Parameter",
       "Id": "FG_White2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11679,6 +12140,8 @@
     {
       "Target": "Parameter",
       "Id": "FG_White3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11690,6 +12153,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLight_A",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11701,6 +12166,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMohu",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11712,6 +12179,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL34",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11723,6 +12192,8 @@
     {
       "Target": "Parameter",
       "Id": "man_TMD",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -11734,6 +12205,8 @@
     {
       "Target": "Parameter",
       "Id": "BG_TMD",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -11745,6 +12218,8 @@
     {
       "Target": "Parameter",
       "Id": "All_X",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11756,6 +12231,8 @@
     {
       "Target": "Parameter",
       "Id": "All_Y",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11767,6 +12244,8 @@
     {
       "Target": "Parameter",
       "Id": "All_Angle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11778,6 +12257,8 @@
     {
       "Target": "Parameter",
       "Id": "All_Size",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11789,6 +12270,8 @@
     {
       "Target": "Parameter",
       "Id": "man_X",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11800,6 +12283,8 @@
     {
       "Target": "Parameter",
       "Id": "man_Y",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11811,6 +12296,8 @@
     {
       "Target": "Parameter",
       "Id": "man_Angle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11822,6 +12309,8 @@
     {
       "Target": "Parameter",
       "Id": "man_Size",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11833,6 +12322,8 @@
     {
       "Target": "Parameter",
       "Id": "BG_X",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11844,6 +12335,8 @@
     {
       "Target": "Parameter",
       "Id": "BG_Y",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11855,6 +12348,8 @@
     {
       "Target": "Parameter",
       "Id": "BG_Angle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11866,6 +12361,8 @@
     {
       "Target": "Parameter",
       "Id": "BG_Size",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11877,6 +12374,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL32",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11888,6 +12387,8 @@
     {
       "Target": "Parameter",
       "Id": "MB_guangyunTMD",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11899,6 +12400,8 @@
     {
       "Target": "Parameter",
       "Id": "MB_guangyunbianhuan",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         10,
@@ -11910,6 +12413,8 @@
     {
       "Target": "Parameter",
       "Id": "MB_guangyunshangxia",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11921,6 +12426,8 @@
     {
       "Target": "Parameter",
       "Id": "MB_guangyunzuoyou",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11932,6 +12439,8 @@
     {
       "Target": "Parameter",
       "Id": "MB_guangyundaxiao",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11943,6 +12452,8 @@
     {
       "Target": "Parameter",
       "Id": "MB_guangyunjiaodu",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11954,6 +12465,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmLLayer2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11965,6 +12478,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamArmLStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11976,6 +12491,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmLStretch2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11987,6 +12504,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL7",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -11998,6 +12517,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHand_L_Change",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12009,6 +12530,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandLChange",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12020,6 +12543,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMuzhi2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12031,6 +12556,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHand_L_S",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12042,6 +12569,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL11",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12053,6 +12582,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamEye_L_Drag",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12064,6 +12595,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamDuzi_X",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12075,6 +12608,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamDuzi_Y",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12086,6 +12621,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL13",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12097,6 +12634,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandL1Display",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12108,6 +12647,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandL5Display",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12119,6 +12660,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandL5Display2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12130,6 +12673,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL28",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12141,6 +12686,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmRLayer",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12152,6 +12699,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamForearmRLayer2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12163,6 +12712,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamArmRStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12174,6 +12725,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandRStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12185,6 +12738,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL6",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12196,6 +12751,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMuzhi",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12207,6 +12764,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHand_R_S",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12218,6 +12777,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL12",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12229,6 +12790,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandR1Display",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12240,6 +12803,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandR2Display",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12251,6 +12816,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandR4Display",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12262,6 +12829,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL25",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12273,6 +12842,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHand_Size",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12284,6 +12855,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamRing_Light",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12295,6 +12868,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamRing_Light2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12306,6 +12881,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_BG",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12317,6 +12894,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_Change",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12328,6 +12907,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12339,6 +12920,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_Y2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12350,6 +12933,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_B",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12361,6 +12946,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamXiguan",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12372,6 +12959,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamXiguan_Z",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12383,6 +12972,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_X",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12394,6 +12985,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_Y",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12405,6 +12998,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_Z",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12416,6 +13011,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_Phy",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12427,6 +13024,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_SZ",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12438,6 +13037,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQipao",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12449,6 +13050,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_Phy1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12460,6 +13063,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_Phy2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12471,6 +13076,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamQishui_PhyZ",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12482,6 +13089,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamMail_Y",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12493,6 +13102,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCrusLLayer",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12504,6 +13115,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLeg_L_X",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12515,6 +13128,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLegLStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12526,6 +13141,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCrusLStretch",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12537,6 +13154,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamFoodLAngleY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12548,6 +13167,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12559,6 +13180,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLegLAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12570,6 +13193,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLegLAngle2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12581,6 +13206,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCrusLAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12592,6 +13219,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCrusLAngle2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12603,6 +13232,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamFoodLAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12614,6 +13245,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLeg_L_S",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12625,6 +13258,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12636,6 +13271,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCrusRLayer",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12647,6 +13284,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLeg_R_X",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12658,6 +13297,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL26",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12669,6 +13310,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCrusRAngle2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12680,6 +13323,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL27",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12691,6 +13336,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLeg_R_Z",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12702,6 +13349,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL31",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12713,6 +13362,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamBody_Y3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         30,
@@ -12724,6 +13375,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL29",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12735,6 +13388,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL30",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12746,6 +13401,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL8",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12757,6 +13414,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL9",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12768,6 +13427,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL10",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12779,6 +13440,8 @@
     {
       "Target": "Parameter",
       "Id": "NULL2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12790,6 +13453,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShy",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12801,6 +13466,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShy2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12812,6 +13479,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamAse",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12823,6 +13492,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamAse2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12834,6 +13505,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamRun",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12845,6 +13518,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamRun_Z",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12856,6 +13531,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHighlight",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12867,6 +13544,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHighlight2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12878,6 +13557,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamTongue",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12889,6 +13570,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamWu",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12900,6 +13583,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamHana",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12911,6 +13596,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamKira",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12922,6 +13609,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamKira2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -12933,6 +13622,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamXiguan_Mouth",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,

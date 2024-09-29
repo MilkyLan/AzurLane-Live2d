@@ -4,6 +4,9 @@
     "Duration": 6.0,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 9,
     "TotalSegmentCount": 29,
     "TotalPointCount": 37,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "xuehuaxunhuan",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -29,6 +34,8 @@
     {
       "Target": "Parameter",
       "Id": "zipianfanzuang",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -55,6 +62,8 @@
     {
       "Target": "Parameter",
       "Id": "baiwulujian",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -70,6 +79,8 @@
     {
       "Target": "Parameter",
       "Id": "baiwu22",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.5,
@@ -95,6 +106,8 @@
     {
       "Target": "Parameter",
       "Id": "lanjuguandeng1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -1,
@@ -115,6 +128,8 @@
     {
       "Target": "Parameter",
       "Id": "lanjuguangdeng",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -1,
@@ -135,6 +150,8 @@
     {
       "Target": "Parameter",
       "Id": "lanjuguandeng3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -1,
@@ -155,6 +172,8 @@
     {
       "Target": "Parameter",
       "Id": "lanjuguandeng4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -1,
@@ -175,6 +194,8 @@
     {
       "Target": "PartOpacity",
       "Id": "Part",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,

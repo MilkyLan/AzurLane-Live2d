@@ -4,6 +4,9 @@
     "Duration": 9.0,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 20,
     "TotalSegmentCount": 135,
     "TotalPointCount": 213,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestL1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -51,6 +56,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestL2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -88,6 +95,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestL3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -125,6 +134,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestL4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -162,6 +173,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestL5",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -199,6 +212,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestL6",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.5,
@@ -247,6 +262,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestL7",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -298,6 +315,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestR1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -332,6 +351,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestR2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -369,6 +390,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChesrtR3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -406,6 +429,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestR4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -443,6 +468,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestR5",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -484,6 +511,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamShuiZhuChestR6",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -525,6 +554,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamWaterWenYao",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -540,6 +571,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamWaterBaseYaoX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         10,
@@ -566,6 +599,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamWaterBaseYaoY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.333,
@@ -603,6 +638,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCrossLight1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -629,6 +666,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCrossLight2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.32,
@@ -666,6 +705,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamCrossLight3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.978,
@@ -703,6 +744,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamGanLight",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.5,

@@ -4,6 +4,9 @@
     "Duration": 10.4,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 6,
     "TotalSegmentCount": 79,
     "TotalPointCount": 123,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "maohux",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -43,6 +48,8 @@
     {
       "Target": "Parameter",
       "Id": "huangjiX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -211,6 +218,8 @@
     {
       "Target": "Parameter",
       "Id": "huangjiY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -291,6 +300,8 @@
     {
       "Target": "Parameter",
       "Id": "dixx",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -335,6 +346,8 @@
     {
       "Target": "Parameter",
       "Id": "chenx",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -358,6 +371,8 @@
     {
       "Target": "Parameter",
       "Id": "chenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,

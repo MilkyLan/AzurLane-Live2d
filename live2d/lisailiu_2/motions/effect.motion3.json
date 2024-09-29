@@ -4,6 +4,9 @@
     "Duration": 9.0,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 6,
     "TotalSegmentCount": 19,
     "TotalPointCount": 35,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "reqipiaodong",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -29,6 +34,8 @@
     {
       "Target": "Parameter",
       "Id": "xunhuan",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -44,6 +51,8 @@
     {
       "Target": "Parameter",
       "Id": "zhiwu2yaobai",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.308,
@@ -75,6 +84,8 @@
     {
       "Target": "Parameter",
       "Id": "zhiwu3yaobai",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -0.128,
@@ -106,6 +117,8 @@
     {
       "Target": "Parameter",
       "Id": "zhiwu4yaobai",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0.047,
@@ -137,6 +150,8 @@
     {
       "Target": "Model",
       "Id": "Opacity",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,

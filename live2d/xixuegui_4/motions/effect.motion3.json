@@ -4,6 +4,9 @@
     "Duration": 18.2,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 1,
     "TotalSegmentCount": 2,
     "TotalPointCount": 4,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamXX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -30,

@@ -4,6 +4,9 @@
     "Duration": 24.0,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 24,
     "TotalSegmentCount": 152,
     "TotalPointCount": 204,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapS1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -32,6 +37,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapS2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         13.333,
@@ -57,6 +64,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapS3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         6.667,
@@ -82,6 +91,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapM1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         6.667,
@@ -110,6 +121,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapM2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -138,6 +151,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapM3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         6.167,
@@ -173,6 +188,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapM4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -197,6 +214,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapM5",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         11.429,
@@ -245,6 +264,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapB1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -279,6 +300,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapB2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         6.667,
@@ -320,6 +343,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapB3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -354,6 +379,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapB4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -391,6 +418,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapS1T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -414,6 +443,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapS2T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -437,6 +468,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapS3T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -460,6 +493,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapM1T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -483,6 +518,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapM2T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
@@ -518,6 +555,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapM3T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -553,6 +592,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapM4T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -576,6 +617,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapM5T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -623,6 +666,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapB1T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -658,6 +703,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapB2T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -693,6 +740,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapB3T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -728,6 +777,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamSnowMapB4T",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,

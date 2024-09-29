@@ -1,19 +1,24 @@
 {
   "Version": 3,
   "Meta": {
-    "Duration": 8.83,
+    "Duration": 8.833,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 45,
     "TotalSegmentCount": 49,
     "TotalPointCount": 53,
-    "UserDataCount": 0,
+    "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
   "Curves": [
     {
       "Target": "Parameter",
       "Id": "Param1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -29,6 +34,8 @@
     {
       "Target": "Parameter",
       "Id": "Param2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         -30,
@@ -53,476 +60,567 @@
     {
       "Target": "Model",
       "Id": "Opacity",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part22",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part12",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "xue",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "liaoli",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "majuu2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "juese",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "shanzi",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "weibo1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "yanjing",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "biaoq",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "meimao1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "meimao2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "kou4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
         0,
-        8.83,
+        8.833,
         0
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "kou3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
         0,
-        8.83,
+        8.833,
         0
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
         0,
-        8.83,
+        8.833,
         0
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "youyan1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "zuoyan1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part5",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part6",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part7",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "tou",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "meihua",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
         0,
-        8.83,
+        8.833,
         0
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "toufa",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "bozi",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "weibo2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "zuoxiu",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "zuoxiu2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part8",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part9",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part10",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "shoudai",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part11",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "Part17",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "yixiu",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "jiao",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "wu",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "zutong",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "majuu1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     },
     {
       "Target": "PartOpacity",
       "Id": "yinghua",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         1,
         0,
-        8.83,
+        8.833,
         1
       ]
     }
   ],
-  "UserData": []
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
 }

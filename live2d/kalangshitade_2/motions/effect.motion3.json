@@ -4,6 +4,9 @@
     "Duration": 18.983,
     "Fps": 60.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
     "CurveCount": 6,
     "TotalSegmentCount": 17,
     "TotalPointCount": 39,
@@ -14,6 +17,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamLampFlash",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -36,6 +41,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamPar1",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -61,6 +68,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamPar2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -86,6 +95,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamPar3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -111,6 +122,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamPar4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
@@ -136,6 +149,8 @@
     {
       "Target": "Parameter",
       "Id": "ParamPar5",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
       "Segments": [
         0,
         0,
