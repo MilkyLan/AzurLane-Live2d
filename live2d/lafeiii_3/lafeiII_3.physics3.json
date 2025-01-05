@@ -3,7 +3,7 @@
   "Meta": {
     "PhysicsSettingCount": 16,
     "TotalInputCount": 29,
-    "TotalOutputCount": 54,
+    "TotalOutputCount": 50,
     "VertexCount": 124,
     "EffectiveForces": {
       "Gravity": {
@@ -1252,28 +1252,6 @@
           "Weight": 100,
           "Type": "Angle",
           "Reflect": false
-        },
-        {
-          "Destination": {
-            "Target": "Parameter",
-            "Id": "L_ParamHairBack7"
-          },
-          "VertexIndex": 7,
-          "Scale": 20,
-          "Weight": 100,
-          "Type": "Angle",
-          "Reflect": false
-        },
-        {
-          "Destination": {
-            "Target": "Parameter",
-            "Id": "L_ParamHairBack8"
-          },
-          "VertexIndex": 8,
-          "Scale": 20,
-          "Weight": 100,
-          "Type": "Angle",
-          "Reflect": false
         }
       ],
       "Vertices": [
@@ -1485,28 +1463,6 @@
             "Id": "R_ParamHairBack6"
           },
           "VertexIndex": 6,
-          "Scale": 20,
-          "Weight": 100,
-          "Type": "Angle",
-          "Reflect": false
-        },
-        {
-          "Destination": {
-            "Target": "Parameter",
-            "Id": "R_ParamHairBack7"
-          },
-          "VertexIndex": 7,
-          "Scale": 20,
-          "Weight": 100,
-          "Type": "Angle",
-          "Reflect": false
-        },
-        {
-          "Destination": {
-            "Target": "Parameter",
-            "Id": "R_ParamHairBack8"
-          },
-          "VertexIndex": 8,
           "Scale": 20,
           "Weight": 100,
           "Type": "Angle",
