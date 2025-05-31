@@ -8,9 +8,9 @@
     "FadeInTime": 0.0,
     "FadeOutTime": 0.0,
     "CurveCount": 212,
-    "TotalSegmentCount": 1111,
-    "TotalPointCount": 1297,
-    "UserDataCount": 2,
+    "TotalSegmentCount": 1118,
+    "TotalPointCount": 1314,
+    "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
   "Curves": [
@@ -56,6 +56,44 @@
         2,
         8.433,
         1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Limit_box",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        2,
+        0.417,
+        0,
+        2,
+        2.083,
+        0,
+        2,
+        4.317,
+        0,
+        2,
+        6.267,
+        0,
+        1,
+        6.306,
+        0,
+        6.344,
+        30,
+        6.383,
+        30,
+        2,
+        7.567,
+        30,
+        2,
+        8.067,
+        30,
+        2,
+        8.433,
+        30
       ]
     },
     {
@@ -1565,7 +1603,11 @@
         2,
         6.267,
         116.84,
-        0,
+        1,
+        6.306,
+        116.84,
+        6.344,
+        -37.04,
         6.383,
         -37.04,
         0,
@@ -2481,7 +2523,11 @@
         2,
         6.267,
         14,
-        0,
+        1,
+        6.306,
+        14,
+        6.344,
+        -30,
         6.383,
         -30,
         0,
@@ -2662,6 +2708,10 @@
         2,
         6.267,
         -30,
+        1,
+        6.306,
+        -30,
+        6.344,
         0,
         6.383,
         0,
@@ -3780,7 +3830,11 @@
         2,
         6.267,
         30,
-        0,
+        1,
+        6.306,
+        30,
+        6.344,
+        -30,
         6.383,
         -30,
         2,
@@ -4461,19 +4515,6 @@
     {
       "Target": "Parameter",
       "Id": "taituitc",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        8.433,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Limit_box",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [
@@ -5838,10 +5879,6 @@
     }
   ],
   "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    },
     {
       "Time": 7.93299961,
       "Value": ""

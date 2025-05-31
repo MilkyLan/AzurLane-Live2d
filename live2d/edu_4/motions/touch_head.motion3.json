@@ -7,9 +7,9 @@
     "AreBeziersRestricted": true,
     "FadeInTime": 0.0,
     "FadeOutTime": 0.0,
-    "CurveCount": 338,
-    "TotalSegmentCount": 2818,
-    "TotalPointCount": 3242,
+    "CurveCount": 339,
+    "TotalSegmentCount": 2819,
+    "TotalPointCount": 3245,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -2514,7 +2514,11 @@
         0,
         1.567,
         -13.728,
-        0,
+        1,
+        1.611,
+        -13.728,
+        1.656,
+        30,
         1.7,
         30,
         2,
@@ -12683,6 +12687,19 @@
     {
       "Target": "Parameter",
       "Id": "MB_Awutifanzhuan",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        9,
+        0
+      ]
+    },
+    {
+      "Target": "Model",
+      "Id": "LipSync",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [

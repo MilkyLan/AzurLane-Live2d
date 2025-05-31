@@ -7,9 +7,9 @@
     "AreBeziersRestricted": true,
     "FadeInTime": 0.0,
     "FadeOutTime": 0.0,
-    "CurveCount": 392,
-    "TotalSegmentCount": 1934,
-    "TotalPointCount": 2624,
+    "CurveCount": 393,
+    "TotalSegmentCount": 1935,
+    "TotalPointCount": 2625,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
@@ -11103,6 +11103,19 @@
     {
       "Target": "Parameter",
       "Id": "FootWaterX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        7.383,
+        0
+      ]
+    },
+    {
+      "Target": "Model",
+      "Id": "LipSync",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [

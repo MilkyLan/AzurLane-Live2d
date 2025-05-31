@@ -1,0 +1,1632 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "All_Size",
+      "GroupId": "",
+      "Name": "总体大小"
+    },
+    {
+      "Id": "All_X",
+      "GroupId": "",
+      "Name": "总体左右"
+    },
+    {
+      "Id": "All_Y",
+      "GroupId": "",
+      "Name": "总体上下"
+    },
+    {
+      "Id": "BeiJing2",
+      "GroupId": "",
+      "Name": "全息激光"
+    },
+    {
+      "Id": "BeiJing3",
+      "GroupId": "",
+      "Name": "电视花屏"
+    },
+    {
+      "Id": "BeiJing4",
+      "GroupId": "",
+      "Name": "全息小鸡"
+    },
+    {
+      "Id": "BeiJingDeng1",
+      "GroupId": "",
+      "Name": "霓虹灯光1"
+    },
+    {
+      "Id": "BeiJingDeng2",
+      "GroupId": "",
+      "Name": "霓虹灯光2"
+    },
+    {
+      "Id": "BeiJingDeng3",
+      "GroupId": "",
+      "Name": "霓虹灯光3"
+    },
+    {
+      "Id": "BeiJingDeng4",
+      "GroupId": "",
+      "Name": "霓虹灯光4"
+    },
+    {
+      "Id": "BeiJingDeng5",
+      "GroupId": "",
+      "Name": "霓虹灯光5"
+    },
+    {
+      "Id": "BeiJingDeng6",
+      "GroupId": "",
+      "Name": "霓虹灯光6"
+    },
+    {
+      "Id": "BeiJingDeng7",
+      "GroupId": "",
+      "Name": "霓虹灯光7"
+    },
+    {
+      "Id": "BeiJingDeng8",
+      "GroupId": "",
+      "Name": "霓虹灯光8"
+    },
+    {
+      "Id": "Coin",
+      "GroupId": "",
+      "Name": "金币旋转"
+    },
+    {
+      "Id": "CoinA1",
+      "GroupId": "",
+      "Name": "金币运动1"
+    },
+    {
+      "Id": "CoinA10",
+      "GroupId": "",
+      "Name": "金币运动9"
+    },
+    {
+      "Id": "CoinA2",
+      "GroupId": "",
+      "Name": "金币运动2"
+    },
+    {
+      "Id": "CoinA3",
+      "GroupId": "",
+      "Name": "金币运动3"
+    },
+    {
+      "Id": "CoinA4",
+      "GroupId": "",
+      "Name": "金币运动4"
+    },
+    {
+      "Id": "CoinA5",
+      "GroupId": "",
+      "Name": "金币运动5"
+    },
+    {
+      "Id": "CoinA6",
+      "GroupId": "",
+      "Name": "金币运动6"
+    },
+    {
+      "Id": "CoinA7",
+      "GroupId": "",
+      "Name": "金币运动7"
+    },
+    {
+      "Id": "CoinA8",
+      "GroupId": "",
+      "Name": "金币运动8"
+    },
+    {
+      "Id": "CoinA9",
+      "GroupId": "",
+      "Name": "金币运动9"
+    },
+    {
+      "Id": "CoinB1",
+      "GroupId": "",
+      "Name": "金币旋转1"
+    },
+    {
+      "Id": "CoinB2",
+      "GroupId": "",
+      "Name": "金币旋转2"
+    },
+    {
+      "Id": "CoinB3",
+      "GroupId": "",
+      "Name": "金币旋转3"
+    },
+    {
+      "Id": "CoinB4",
+      "GroupId": "",
+      "Name": "金币旋转4"
+    },
+    {
+      "Id": "CoinB5",
+      "GroupId": "",
+      "Name": "金币旋转5"
+    },
+    {
+      "Id": "CoinB6",
+      "GroupId": "",
+      "Name": "金币旋转6"
+    },
+    {
+      "Id": "DaGuang1",
+      "GroupId": "",
+      "Name": "打光开闭（人体）"
+    },
+    {
+      "Id": "DaGuang2",
+      "GroupId": "",
+      "Name": "打光开闭"
+    },
+    {
+      "Id": "FaGuang",
+      "GroupId": "",
+      "Name": "财宝发光"
+    },
+    {
+      "Id": "FaGuang2",
+      "GroupId": "",
+      "Name": "财宝发光开关"
+    },
+    {
+      "Id": "FG_Black",
+      "GroupId": "",
+      "Name": "黑幕"
+    },
+    {
+      "Id": "Limit_box2",
+      "GroupId": "",
+      "Name": "限制框透明度(回港）"
+    },
+    {
+      "Id": "L_ParamHairFront1",
+      "GroupId": "",
+      "Name": "左_刘海1"
+    },
+    {
+      "Id": "L_ParamHairFront2",
+      "GroupId": "",
+      "Name": "左_刘海2"
+    },
+    {
+      "Id": "L_ParamHairFront3",
+      "GroupId": "",
+      "Name": "左_刘海3"
+    },
+    {
+      "Id": "L_ParamHairFront4",
+      "GroupId": "",
+      "Name": "左_刘海4"
+    },
+    {
+      "Id": "L_ParamHairFront5",
+      "GroupId": "",
+      "Name": "左_刘海5"
+    },
+    {
+      "Id": "L_ParamHairSide1",
+      "GroupId": "",
+      "Name": "耳朵"
+    },
+    {
+      "Id": "L_ParamHairSide2",
+      "GroupId": "",
+      "Name": "耳朵y"
+    },
+    {
+      "Id": "L_ParamHairSide3",
+      "GroupId": "",
+      "Name": "e耳朵yy"
+    },
+    {
+      "Id": "MB_fenweiqiu1",
+      "GroupId": "",
+      "Name": "氛围球1"
+    },
+    {
+      "Id": "MB_fenweiqiu2",
+      "GroupId": "",
+      "Name": "氛围球2"
+    },
+    {
+      "Id": "MB_fenweiqiu3",
+      "GroupId": "",
+      "Name": "氛围球3"
+    },
+    {
+      "Id": "MB_fenweiqiu4",
+      "GroupId": "",
+      "Name": "氛围球4"
+    },
+    {
+      "Id": "MB_fenweiqiu5",
+      "GroupId": "",
+      "Name": "氛围球5"
+    },
+    {
+      "Id": "MB_fenweiqiu6",
+      "GroupId": "",
+      "Name": "氛围球6"
+    },
+    {
+      "Id": "MB_fenweiTMD",
+      "GroupId": "",
+      "Name": "氛围透明度"
+    },
+    {
+      "Id": "MB_fenwei_AD",
+      "GroupId": "",
+      "Name": "氛围暗度"
+    },
+    {
+      "Id": "MB_fenwei_DX",
+      "GroupId": "",
+      "Name": "氛围球大小"
+    },
+    {
+      "Id": "MB_fenwei_LD",
+      "GroupId": "",
+      "Name": "氛围亮度"
+    },
+    {
+      "Id": "MB_fenwei_SX",
+      "GroupId": "",
+      "Name": "氛围球上下"
+    },
+    {
+      "Id": "MB_xingfengTMD",
+      "GroupId": "",
+      "Name": "信封透明度"
+    },
+    {
+      "Id": "MB_xingfengyaobai",
+      "GroupId": "",
+      "Name": "信封摇摆"
+    },
+    {
+      "Id": "NULL01",
+      "GroupId": "",
+      "Name": "=====分割线====="
+    },
+    {
+      "Id": "NULL04",
+      "GroupId": "",
+      "Name": "=====分割线====="
+    },
+    {
+      "Id": "NULL05",
+      "GroupId": "",
+      "Name": "=====分割线====="
+    },
+    {
+      "Id": "NULL06",
+      "GroupId": "",
+      "Name": "=====分割线====="
+    },
+    {
+      "Id": "NULL10",
+      "GroupId": "",
+      "Name": "=====分割线====="
+    },
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "鞋子T"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "帽子出现"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "鞋子晃动"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamArmLAngle",
+      "GroupId": "",
+      "Name": "左上臂旋转"
+    },
+    {
+      "Id": "ParamArmLStretch",
+      "GroupId": "",
+      "Name": "左上臂伸缩"
+    },
+    {
+      "Id": "ParamArmRAngle",
+      "GroupId": "",
+      "Name": "右上臂旋转"
+    },
+    {
+      "Id": "ParamArmRChange",
+      "GroupId": "",
+      "Name": "右上臂变化"
+    },
+    {
+      "Id": "ParamArmRStretch",
+      "GroupId": "",
+      "Name": "右上臂伸缩"
+    },
+    {
+      "Id": "Paramax",
+      "GroupId": "",
+      "Name": "爱心"
+    },
+    {
+      "Id": "Paramax2",
+      "GroupId": "",
+      "Name": "爱心R"
+    },
+    {
+      "Id": "Paramaxcx",
+      "GroupId": "",
+      "Name": "爱心出现"
+    },
+    {
+      "Id": "ParamBlack0",
+      "GroupId": "",
+      "Name": "黑幕后"
+    },
+    {
+      "Id": "ParamBLACK1",
+      "GroupId": "",
+      "Name": "黑幕前"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "体の回転　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "体の回転　Y"
+    },
+    {
+      "Id": "ParamBodyStretch",
+      "GroupId": "",
+      "Name": "上身伸缩"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "",
+      "Name": "右眉　変形"
+    },
+    {
+      "Id": "ParamCheek",
+      "GroupId": "",
+      "Name": "脸颊_红晕"
+    },
+    {
+      "Id": "ParamCrusLAngle",
+      "GroupId": "",
+      "Name": "左小腿旋转"
+    },
+    {
+      "Id": "ParamCrusLLayer",
+      "GroupId": "",
+      "Name": "左小腿图层"
+    },
+    {
+      "Id": "ParamCrusLStretch",
+      "GroupId": "",
+      "Name": "左小腿伸缩"
+    },
+    {
+      "Id": "ParamCrusRAngle",
+      "GroupId": "",
+      "Name": "右小腿旋转"
+    },
+    {
+      "Id": "ParamCrusRLayer",
+      "GroupId": "",
+      "Name": "右小腿图层"
+    },
+    {
+      "Id": "ParamCrusRLayer2",
+      "GroupId": "",
+      "Name": "右小腿光影"
+    },
+    {
+      "Id": "ParamCrusRStretch",
+      "GroupId": "",
+      "Name": "右小腿伸缩"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "目玉 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "目玉 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "右目　開閉"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "右目　笑顔"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "左目　開閉"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "左目　笑顔"
+    },
+    {
+      "Id": "ParamFoodLAngle_1",
+      "GroupId": "",
+      "Name": "左脚旋转1"
+    },
+    {
+      "Id": "ParamFoodLChange2",
+      "GroupId": "",
+      "Name": "左脚变化"
+    },
+    {
+      "Id": "ParamFoodRAngle_1",
+      "GroupId": "",
+      "Name": "右脚旋转1"
+    },
+    {
+      "Id": "ParamFoodRChange",
+      "GroupId": "",
+      "Name": "右脚变化(下方）"
+    },
+    {
+      "Id": "ParamFoodRChange2",
+      "GroupId": "",
+      "Name": "右脚变化(上方）"
+    },
+    {
+      "Id": "ParamFootL2",
+      "GroupId": "",
+      "Name": "左脚掌y"
+    },
+    {
+      "Id": "ParamFootLx",
+      "GroupId": "",
+      "Name": "左脚指x"
+    },
+    {
+      "Id": "ParamFootLx2",
+      "GroupId": "",
+      "Name": "左脚指2x"
+    },
+    {
+      "Id": "ParamFootLx3",
+      "GroupId": "",
+      "Name": "左脚指3x"
+    },
+    {
+      "Id": "ParamFootLx4",
+      "GroupId": "",
+      "Name": "左脚指4x"
+    },
+    {
+      "Id": "ParamFootLx5",
+      "GroupId": "",
+      "Name": "左脚指5x"
+    },
+    {
+      "Id": "ParamFootLy",
+      "GroupId": "",
+      "Name": "左脚指y"
+    },
+    {
+      "Id": "ParamFootLy2",
+      "GroupId": "",
+      "Name": "左脚指2y"
+    },
+    {
+      "Id": "ParamFootLy3",
+      "GroupId": "",
+      "Name": "左脚指3y"
+    },
+    {
+      "Id": "ParamFootLy4",
+      "GroupId": "",
+      "Name": "左脚指4y"
+    },
+    {
+      "Id": "ParamFootLy5",
+      "GroupId": "",
+      "Name": "左脚指5y"
+    },
+    {
+      "Id": "ParamForearmLAngle",
+      "GroupId": "",
+      "Name": "左下臂旋转"
+    },
+    {
+      "Id": "ParamForearmLChange",
+      "GroupId": "",
+      "Name": "左下臂变化"
+    },
+    {
+      "Id": "ParamForearmLStretch",
+      "GroupId": "",
+      "Name": "左下臂伸缩"
+    },
+    {
+      "Id": "ParamForearmRAngle",
+      "GroupId": "",
+      "Name": "右下臂旋转"
+    },
+    {
+      "Id": "ParamForearmRChange",
+      "GroupId": "",
+      "Name": "右下臂变化"
+    },
+    {
+      "Id": "Paramgg",
+      "GroupId": "",
+      "Name": "高光"
+    },
+    {
+      "Id": "ParamggR",
+      "GroupId": "",
+      "Name": "高光R"
+    },
+    {
+      "Id": "ParamHandL1Display",
+      "GroupId": "",
+      "Name": "左手1A"
+    },
+    {
+      "Id": "ParamHandL1Display2",
+      "GroupId": "",
+      "Name": "左手1B"
+    },
+    {
+      "Id": "ParamHandL2Display",
+      "GroupId": "",
+      "Name": "左手2A"
+    },
+    {
+      "Id": "ParamHandL2Display2",
+      "GroupId": "",
+      "Name": "左手2B"
+    },
+    {
+      "Id": "ParamHandL3Display",
+      "GroupId": "",
+      "Name": "左手3A"
+    },
+    {
+      "Id": "ParamHandL3Display2",
+      "GroupId": "",
+      "Name": "左手3B"
+    },
+    {
+      "Id": "ParamHandL4Display",
+      "GroupId": "",
+      "Name": "左手4A"
+    },
+    {
+      "Id": "ParamHandL4Display2",
+      "GroupId": "",
+      "Name": "左手4B"
+    },
+    {
+      "Id": "ParamHandL5Display",
+      "GroupId": "",
+      "Name": "左手5"
+    },
+    {
+      "Id": "ParamHandL5Display2",
+      "GroupId": "",
+      "Name": "左手5A"
+    },
+    {
+      "Id": "ParamHandL5Display3",
+      "GroupId": "",
+      "Name": "左手5B"
+    },
+    {
+      "Id": "ParamHandLAngle",
+      "GroupId": "",
+      "Name": "左手旋转"
+    },
+    {
+      "Id": "ParamHandLAngle2",
+      "GroupId": "",
+      "Name": "左手旋转（捏起）"
+    },
+    {
+      "Id": "ParamHandLREDisplay2",
+      "GroupId": "",
+      "Name": "左手3层级"
+    },
+    {
+      "Id": "ParamHandL_A",
+      "GroupId": "",
+      "Name": "左手1开关"
+    },
+    {
+      "Id": "ParamHandL_B",
+      "GroupId": "",
+      "Name": "左手2开关"
+    },
+    {
+      "Id": "ParamHandL_D",
+      "GroupId": "",
+      "Name": "左手3开关"
+    },
+    {
+      "Id": "ParamHandL_E",
+      "GroupId": "",
+      "Name": "左手4开关"
+    },
+    {
+      "Id": "ParamHandR1Display",
+      "GroupId": "",
+      "Name": "右手1A"
+    },
+    {
+      "Id": "ParamHandR1Display2",
+      "GroupId": "",
+      "Name": "右手1B"
+    },
+    {
+      "Id": "ParamHandR2Display",
+      "GroupId": "",
+      "Name": "右手2A"
+    },
+    {
+      "Id": "ParamHandR2Display2",
+      "GroupId": "",
+      "Name": "右手2B"
+    },
+    {
+      "Id": "ParamHandR3Display",
+      "GroupId": "",
+      "Name": "右手3A"
+    },
+    {
+      "Id": "ParamHandR3Display2",
+      "GroupId": "",
+      "Name": "右手3B"
+    },
+    {
+      "Id": "ParamHandR4Display",
+      "GroupId": "",
+      "Name": "右手4"
+    },
+    {
+      "Id": "ParamHandRAngle",
+      "GroupId": "",
+      "Name": "右手旋转"
+    },
+    {
+      "Id": "ParamHandRREDisplay",
+      "GroupId": "",
+      "Name": "右手1层级"
+    },
+    {
+      "Id": "ParamHandRStretch",
+      "GroupId": "",
+      "Name": "右下臂伸缩"
+    },
+    {
+      "Id": "ParamHandR_A",
+      "GroupId": "",
+      "Name": "右手1开关"
+    },
+    {
+      "Id": "ParamHandR_B",
+      "GroupId": "",
+      "Name": "右手2开关"
+    },
+    {
+      "Id": "ParamHandR_C",
+      "GroupId": "",
+      "Name": "右手3开关"
+    },
+    {
+      "Id": "ParamHandR_D",
+      "GroupId": "",
+      "Name": "右手4开关"
+    },
+    {
+      "Id": "Paramhd",
+      "GroupId": "",
+      "Name": "红点"
+    },
+    {
+      "Id": "ParamJTEyeOpen",
+      "GroupId": "",
+      "Name": "镜头眨眼"
+    },
+    {
+      "Id": "ParamLegLAngle",
+      "GroupId": "",
+      "Name": "左大腿旋转"
+    },
+    {
+      "Id": "ParamLegLStretch",
+      "GroupId": "",
+      "Name": "左大腿伸缩"
+    },
+    {
+      "Id": "ParamLegRAngle",
+      "GroupId": "",
+      "Name": "右大腿旋转"
+    },
+    {
+      "Id": "ParamLegRStretch",
+      "GroupId": "",
+      "Name": "右大腿伸缩"
+    },
+    {
+      "Id": "ParamLightOP",
+      "GroupId": "",
+      "Name": "轨迹开关"
+    },
+    {
+      "Id": "ParamLowerBodyX",
+      "GroupId": "",
+      "Name": "下身X"
+    },
+    {
+      "Id": "ParamLowerBodyY",
+      "GroupId": "",
+      "Name": "下身Y"
+    },
+    {
+      "Id": "ParamManjuu1",
+      "GroupId": "",
+      "Name": "小鸡眼睛"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "自动口変形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "自动口開閉"
+    },
+    {
+      "Id": "ParamMouthOpenY2",
+      "GroupId": "",
+      "Name": "牙齿開閉"
+    },
+    {
+      "Id": "ParamMouthsize",
+      "GroupId": "",
+      "Name": "口大小"
+    },
+    {
+      "Id": "ParamMouthsize2",
+      "GroupId": "",
+      "Name": "歪嘴"
+    },
+    {
+      "Id": "ParamMouthX",
+      "GroupId": "",
+      "Name": "口左右"
+    },
+    {
+      "Id": "ParamNeckZ",
+      "GroupId": "",
+      "Name": "脖子 Z"
+    },
+    {
+      "Id": "ParamPKOP",
+      "GroupId": "",
+      "Name": "扑克打开"
+    },
+    {
+      "Id": "Parampscx",
+      "GroupId": "",
+      "Name": "拍摄出现"
+    },
+    {
+      "Id": "Paramring",
+      "GroupId": "",
+      "Name": "誓约戒指"
+    },
+    {
+      "Id": "Paramtk",
+      "GroupId": "",
+      "Name": "瞳孔"
+    },
+    {
+      "Id": "ParamtkR",
+      "GroupId": "",
+      "Name": "瞳孔R"
+    },
+    {
+      "Id": "ParamxjY",
+      "GroupId": "",
+      "Name": "小鸡Y"
+    },
+    {
+      "Id": "PukX",
+      "GroupId": "",
+      "Name": "【1】扑克牌X旋转"
+    },
+    {
+      "Id": "PukX2",
+      "GroupId": "",
+      "Name": "【2】扑克牌X旋转"
+    },
+    {
+      "Id": "PukX3",
+      "GroupId": "",
+      "Name": "【3】扑克牌X旋转"
+    },
+    {
+      "Id": "PukX4",
+      "GroupId": "",
+      "Name": "【4】扑克牌X旋转"
+    },
+    {
+      "Id": "PukX5",
+      "GroupId": "",
+      "Name": "【5】扑克牌X旋转"
+    },
+    {
+      "Id": "PukY",
+      "GroupId": "",
+      "Name": "扑克牌Y浮动"
+    },
+    {
+      "Id": "PukZ",
+      "GroupId": "",
+      "Name": "扑克牌展开"
+    },
+    {
+      "Id": "R_ParamHairBack1",
+      "GroupId": "",
+      "Name": "领子"
+    },
+    {
+      "Id": "R_ParamHairBack2",
+      "GroupId": "",
+      "Name": "领子y"
+    },
+    {
+      "Id": "R_ParamHairFront1",
+      "GroupId": "",
+      "Name": "右_刘海1"
+    },
+    {
+      "Id": "R_ParamHairFront2",
+      "GroupId": "",
+      "Name": "右_刘海2"
+    },
+    {
+      "Id": "R_ParamHairFront3",
+      "GroupId": "",
+      "Name": "右_刘海3"
+    },
+    {
+      "Id": "R_ParamHairFront4",
+      "GroupId": "",
+      "Name": "右_刘海4"
+    },
+    {
+      "Id": "R_ParamHairFront5",
+      "GroupId": "",
+      "Name": "右_刘海5"
+    },
+    {
+      "Id": "R_ParamHairSide1",
+      "GroupId": "",
+      "Name": "右_侧发1"
+    },
+    {
+      "Id": "R_ParamHairSide2",
+      "GroupId": "",
+      "Name": "右_侧发2"
+    },
+    {
+      "Id": "R_ParamHairSide3",
+      "GroupId": "",
+      "Name": "右_侧发3"
+    },
+    {
+      "Id": "R_ParamHairSide4",
+      "GroupId": "",
+      "Name": "蝴蝶结"
+    },
+    {
+      "Id": "R_ParamHairSide5",
+      "GroupId": "",
+      "Name": "蝴蝶结y"
+    },
+    {
+      "Id": "Storyboard_1",
+      "GroupId": "",
+      "Name": "分镜1"
+    },
+    {
+      "Id": "Storyboard_2",
+      "GroupId": "",
+      "Name": "分镜2"
+    },
+    {
+      "Id": "TeXiaoA",
+      "GroupId": "",
+      "Name": "闪光轨迹"
+    },
+    {
+      "Id": "touch_drag1",
+      "GroupId": "",
+      "Name": "拖拽1"
+    },
+    {
+      "Id": "touch_drag2",
+      "GroupId": "",
+      "Name": "拖拽2"
+    },
+    {
+      "Id": "touch_drag3",
+      "GroupId": "",
+      "Name": "拖拽3"
+    },
+    {
+      "Id": "yanwu",
+      "GroupId": "",
+      "Name": "烟雾开关"
+    },
+    {
+      "Id": "yanwu2",
+      "GroupId": "",
+      "Name": "烟雾大小"
+    },
+    {
+      "Id": "yanwuX",
+      "GroupId": "",
+      "Name": "烟雾X"
+    },
+    {
+      "Id": "yanwuY",
+      "GroupId": "",
+      "Name": "烟雾Y"
+    },
+    {
+      "Id": "ZD_BustMotionX_L",
+      "GroupId": "",
+      "Name": "自动总胸左右_1"
+    },
+    {
+      "Id": "ZD_BustMotionX_X",
+      "GroupId": "",
+      "Name": "自动总胸左右_2"
+    },
+    {
+      "Id": "ZD_BustMotionY_L",
+      "GroupId": "",
+      "Name": "自动总胸上下_1"
+    },
+    {
+      "Id": "ZD_BustMotionY_X",
+      "GroupId": "",
+      "Name": "自动总胸上下_2"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "ArtMesh10_Skinning",
+      "Name": "1(蒙皮)"
+    },
+    {
+      "Id": "ArtMesh12_Skinning",
+      "Name": "8"
+    },
+    {
+      "Id": "ArtMesh13_Skinning",
+      "Name": "L(蒙皮)"
+    },
+    {
+      "Id": "ArtMesh165_Skinning",
+      "Name": "刘海"
+    },
+    {
+      "Id": "ArtMesh16_Skinning",
+      "Name": "侧发"
+    },
+    {
+      "Id": "ArtMesh186_Skinning",
+      "Name": "脸部"
+    },
+    {
+      "Id": "ArtMesh71_Skinning",
+      "Name": "R腿"
+    },
+    {
+      "Id": "ArtMesh76_Skinning",
+      "Name": "食指"
+    },
+    {
+      "Id": "L2_Skinning",
+      "Name": "上层手"
+    },
+    {
+      "Id": "L3",
+      "Name": "L"
+    },
+    {
+      "Id": "L4",
+      "Name": "金币"
+    },
+    {
+      "Id": "L6",
+      "Name": "蝴蝶结"
+    },
+    {
+      "Id": "MBWJJ_beijingandu",
+      "Name": "背景暗度"
+    },
+    {
+      "Id": "MBWJJ_beijingliangdu",
+      "Name": "背景亮度"
+    },
+    {
+      "Id": "MBWJJ_fenweiqiuHONG",
+      "Name": "红"
+    },
+    {
+      "Id": "MBWJJ_fenweiqiuLAN",
+      "Name": "蓝"
+    },
+    {
+      "Id": "MBWJJ_fenweiqiuLU",
+      "Name": "绿"
+    },
+    {
+      "Id": "MBWJJ_fenweiqiuSCBC",
+      "Name": "素材补充"
+    },
+    {
+      "Id": "MBWJJ_NSFW",
+      "Name": "暖色氛围"
+    },
+    {
+      "Id": "MBWJJ_NSFWBG",
+      "Name": "氛围背景"
+    },
+    {
+      "Id": "Part",
+      "Name": "L"
+    },
+    {
+      "Id": "Part10",
+      "Name": "1(蒙皮)"
+    },
+    {
+      "Id": "Part100",
+      "Name": "高光"
+    },
+    {
+      "Id": "Part101",
+      "Name": "图层组3"
+    },
+    {
+      "Id": "Part102",
+      "Name": "小拇指"
+    },
+    {
+      "Id": "Part103",
+      "Name": "无名指"
+    },
+    {
+      "Id": "Part104",
+      "Name": "中指"
+    },
+    {
+      "Id": "Part11",
+      "Name": "R-1"
+    },
+    {
+      "Id": "Part111",
+      "Name": "（手臂拆分）.psd"
+    },
+    {
+      "Id": "Part112",
+      "Name": "捏起手"
+    },
+    {
+      "Id": "Part113",
+      "Name": "食指"
+    },
+    {
+      "Id": "Part114",
+      "Name": "大拇指"
+    },
+    {
+      "Id": "Part115",
+      "Name": "食指"
+    },
+    {
+      "Id": "Part116",
+      "Name": "大拇指"
+    },
+    {
+      "Id": "Part117",
+      "Name": "交互替换脚"
+    },
+    {
+      "Id": "Part119",
+      "Name": "中指"
+    },
+    {
+      "Id": "Part12",
+      "Name": "L-1"
+    },
+    {
+      "Id": "Part120",
+      "Name": "打光"
+    },
+    {
+      "Id": "Part121",
+      "Name": "激光"
+    },
+    {
+      "Id": "Part122",
+      "Name": "透明"
+    },
+    {
+      "Id": "Part123",
+      "Name": "臀部透明"
+    },
+    {
+      "Id": "Part124",
+      "Name": "身体"
+    },
+    {
+      "Id": "Part125",
+      "Name": "右手背"
+    },
+    {
+      "Id": "Part126",
+      "Name": "右手原始"
+    },
+    {
+      "Id": "Part127",
+      "Name": "魔术帽子"
+    },
+    {
+      "Id": "Part128",
+      "Name": "发光"
+    },
+    {
+      "Id": "Part129",
+      "Name": "1"
+    },
+    {
+      "Id": "Part13",
+      "Name": "R-2(蒙皮)"
+    },
+    {
+      "Id": "Part130",
+      "Name": "金币"
+    },
+    {
+      "Id": "Part131",
+      "Name": "06"
+    },
+    {
+      "Id": "Part132",
+      "Name": "07"
+    },
+    {
+      "Id": "Part133",
+      "Name": "08******************"
+    },
+    {
+      "Id": "Part134",
+      "Name": "09"
+    },
+    {
+      "Id": "Part135",
+      "Name": "金币"
+    },
+    {
+      "Id": "Part136",
+      "Name": "金币"
+    },
+    {
+      "Id": "Part137",
+      "Name": "金币"
+    },
+    {
+      "Id": "Part138",
+      "Name": "金币"
+    },
+    {
+      "Id": "Part139",
+      "Name": "金币"
+    },
+    {
+      "Id": "Part14",
+      "Name": "R手臂"
+    },
+    {
+      "Id": "Part140",
+      "Name": "2"
+    },
+    {
+      "Id": "Part141",
+      "Name": "00"
+    },
+    {
+      "Id": "Part142",
+      "Name": "食指"
+    },
+    {
+      "Id": "Part143",
+      "Name": "眨眼"
+    },
+    {
+      "Id": "Part144",
+      "Name": "限制框最前"
+    },
+    {
+      "Id": "Part145",
+      "Name": "马尾部分"
+    },
+    {
+      "Id": "Part146",
+      "Name": "Main"
+    },
+    {
+      "Id": "Part147",
+      "Name": "xj.psd"
+    },
+    {
+      "Id": "Part15",
+      "Name": "L腿"
+    },
+    {
+      "Id": "Part16",
+      "Name": "0"
+    },
+    {
+      "Id": "Part17",
+      "Name": "后发"
+    },
+    {
+      "Id": "Part18",
+      "Name": "05"
+    },
+    {
+      "Id": "Part19",
+      "Name": "图层组1"
+    },
+    {
+      "Id": "Part2",
+      "Name": "部件152"
+    },
+    {
+      "Id": "Part20",
+      "Name": "金币"
+    },
+    {
+      "Id": "Part21",
+      "Name": "大拇指"
+    },
+    {
+      "Id": "Part22",
+      "Name": "3"
+    },
+    {
+      "Id": "Part23",
+      "Name": "L手原始"
+    },
+    {
+      "Id": "Part24",
+      "Name": "无名指"
+    },
+    {
+      "Id": "Part25",
+      "Name": "R脚"
+    },
+    {
+      "Id": "Part26",
+      "Name": "R腿"
+    },
+    {
+      "Id": "Part27",
+      "Name": "R(蒙皮)"
+    },
+    {
+      "Id": "Part28",
+      "Name": "R(蒙皮)"
+    },
+    {
+      "Id": "Part29",
+      "Name": "中指"
+    },
+    {
+      "Id": "Part3",
+      "Name": "大拇指"
+    },
+    {
+      "Id": "Part30",
+      "Name": "深色衣服R"
+    },
+    {
+      "Id": "Part31",
+      "Name": "深色衣服L"
+    },
+    {
+      "Id": "Part32",
+      "Name": "小拇指"
+    },
+    {
+      "Id": "Part33",
+      "Name": "无名指"
+    },
+    {
+      "Id": "Part34",
+      "Name": "衣领"
+    },
+    {
+      "Id": "Part35",
+      "Name": "01"
+    },
+    {
+      "Id": "Part36",
+      "Name": "图层225(蒙皮)"
+    },
+    {
+      "Id": "Part37",
+      "Name": "图层226(蒙皮)"
+    },
+    {
+      "Id": "Part38",
+      "Name": "R"
+    },
+    {
+      "Id": "Part39",
+      "Name": "L"
+    },
+    {
+      "Id": "Part4",
+      "Name": "食指"
+    },
+    {
+      "Id": "Part40",
+      "Name": "嘴"
+    },
+    {
+      "Id": "Part41",
+      "Name": "小拇指"
+    },
+    {
+      "Id": "Part42",
+      "Name": "深色衣服R"
+    },
+    {
+      "Id": "Part43",
+      "Name": "中指"
+    },
+    {
+      "Id": "Part44",
+      "Name": "克利夫兰-兔女郎（拆）.psd"
+    },
+    {
+      "Id": "Part45",
+      "Name": "手臂拆分"
+    },
+    {
+      "Id": "Part47",
+      "Name": "无名指"
+    },
+    {
+      "Id": "Part48",
+      "Name": "扑克牌组"
+    },
+    {
+      "Id": "Part5",
+      "Name": "中指"
+    },
+    {
+      "Id": "Part53",
+      "Name": "1"
+    },
+    {
+      "Id": "Part55",
+      "Name": "N1"
+    },
+    {
+      "Id": "Part56",
+      "Name": "N2"
+    },
+    {
+      "Id": "Part57",
+      "Name": "N3"
+    },
+    {
+      "Id": "Part58",
+      "Name": "N4"
+    },
+    {
+      "Id": "Part59",
+      "Name": "轨迹"
+    },
+    {
+      "Id": "Part6",
+      "Name": "无名指"
+    },
+    {
+      "Id": "Part60",
+      "Name": "3(蒙皮)"
+    },
+    {
+      "Id": "Part61",
+      "Name": "背景"
+    },
+    {
+      "Id": "Part62",
+      "Name": "背景主体"
+    },
+    {
+      "Id": "Part63",
+      "Name": "03*******************"
+    },
+    {
+      "Id": "Part64",
+      "Name": "金币"
+    },
+    {
+      "Id": "Part65",
+      "Name": "大拇指"
+    },
+    {
+      "Id": "Part66",
+      "Name": "人"
+    },
+    {
+      "Id": "Part67",
+      "Name": "R"
+    },
+    {
+      "Id": "Part68",
+      "Name": "小拇指"
+    },
+    {
+      "Id": "Part7",
+      "Name": "L手臂"
+    },
+    {
+      "Id": "Part71",
+      "Name": "5"
+    },
+    {
+      "Id": "Part72",
+      "Name": "食指"
+    },
+    {
+      "Id": "Part75",
+      "Name": "电视框"
+    },
+    {
+      "Id": "Part77",
+      "Name": "无名指"
+    },
+    {
+      "Id": "Part78",
+      "Name": "中指"
+    },
+    {
+      "Id": "Part8",
+      "Name": "兔耳"
+    },
+    {
+      "Id": "Part81",
+      "Name": "4"
+    },
+    {
+      "Id": "Part9",
+      "Name": "小拇指"
+    },
+    {
+      "Id": "Part93",
+      "Name": "04"
+    },
+    {
+      "Id": "Part94",
+      "Name": "全息"
+    },
+    {
+      "Id": "Part95",
+      "Name": "花屏"
+    },
+    {
+      "Id": "Part96",
+      "Name": "霓虹灯字"
+    },
+    {
+      "Id": "Part97",
+      "Name": "部件114"
+    },
+    {
+      "Id": "Part98",
+      "Name": "小拇指"
+    },
+    {
+      "Id": "Part99",
+      "Name": "2"
+    },
+    {
+      "Id": "R2_Skinning",
+      "Name": "7"
+    },
+    {
+      "Id": "R3",
+      "Name": "R"
+    },
+    {
+      "Id": "R4",
+      "Name": "金币"
+    },
+    {
+      "Id": "R6",
+      "Name": "人"
+    },
+    {
+      "Id": "R_Skinning",
+      "Name": "6"
+    }
+  ]
+}
