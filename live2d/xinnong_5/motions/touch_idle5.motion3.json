@@ -9,7 +9,7 @@
     "FadeOutTime": 0.0,
     "CurveCount": 401,
     "TotalSegmentCount": 860,
-    "TotalPointCount": 1136,
+    "TotalPointCount": 1144,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -436,7 +436,11 @@
         0,
         1.55,
         5.58,
-        0,
+        1,
+        1.556,
+        5.58,
+        1.561,
+        -6.747,
         1.567,
         -6.747,
         1,
@@ -502,7 +506,11 @@
         0,
         1.55,
         -21,
-        0,
+        1,
+        1.556,
+        -21,
+        1.561,
+        5.681,
         1.567,
         5.681,
         0,
@@ -524,7 +532,11 @@
         0,
         1.55,
         0,
+        1,
+        1.556,
         0,
+        1.561,
+        19.455,
         1.567,
         19.455,
         1,
@@ -617,7 +629,11 @@
         0,
         1.55,
         -20,
-        0,
+        1,
+        1.556,
+        -20,
+        1.561,
+        -30,
         1.567,
         -30,
         2,
@@ -1584,10 +1600,10 @@
         9,
         2,
         1.75,
-        0,
+        7,
         2,
         3.25,
-        0
+        7
       ]
     },
     {
@@ -3255,6 +3271,19 @@
     },
     {
       "Target": "Parameter",
+      "Id": "Param11",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.25,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "touch_drag22",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -4595,19 +4624,6 @@
     {
       "Target": "Parameter",
       "Id": "Param195",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        3.25,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param11",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [

@@ -7,9 +7,9 @@
     "AreBeziersRestricted": true,
     "FadeInTime": 0.0,
     "FadeOutTime": 0.0,
-    "CurveCount": 198,
-    "TotalSegmentCount": 379,
-    "TotalPointCount": 437,
+    "CurveCount": 199,
+    "TotalSegmentCount": 380,
+    "TotalPointCount": 438,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -3242,6 +3242,19 @@
         0,
         5.57,
         1
+      ]
+    },
+    {
+      "Target": "Model",
+      "Id": "LipSync",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        5.57,
+        0
       ]
     }
   ],

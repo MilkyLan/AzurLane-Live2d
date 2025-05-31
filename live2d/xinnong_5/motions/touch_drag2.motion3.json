@@ -8,8 +8,8 @@
     "FadeInTime": 0.0,
     "FadeOutTime": 0.0,
     "CurveCount": 165,
-    "TotalSegmentCount": 350,
-    "TotalPointCount": 472,
+    "TotalSegmentCount": 352,
+    "TotalPointCount": 474,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -967,6 +967,25 @@
     },
     {
       "Target": "Parameter",
+      "Id": "ParamHandRREDisplay",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        7,
+        2,
+        1.333,
+        0,
+        2,
+        1.5,
+        0,
+        2,
+        2.5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "Param10",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -1774,6 +1793,19 @@
     },
     {
       "Target": "Parameter",
+      "Id": "Param11",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        2.5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "touch_drag22",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -2346,19 +2378,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "Param11",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        2.5,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "Param4",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -2477,19 +2496,6 @@
     {
       "Target": "Parameter",
       "Id": "ParamHandRAnimation",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        2.5,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamHandRREDisplay",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [

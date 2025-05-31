@@ -7,13 +7,104 @@
     "AreBeziersRestricted": true,
     "FadeInTime": 0.0,
     "FadeOutTime": 0.0,
-    "CurveCount": 372,
-    "TotalSegmentCount": 1224,
-    "TotalPointCount": 1374,
-    "UserDataCount": 3,
+    "CurveCount": 246,
+    "TotalSegmentCount": 905,
+    "TotalPointCount": 1057,
+    "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
   "Curves": [
+    {
+      "Target": "Model",
+      "Id": "LipSync",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.233,
+        0.698,
+        0,
+        0.3,
+        0.016,
+        0,
+        0.433,
+        0.51,
+        0,
+        0.5,
+        0.294,
+        0,
+        0.567,
+        0.828,
+        0,
+        0.633,
+        0.592,
+        0,
+        0.7,
+        0.984,
+        0,
+        0.767,
+        0.78,
+        0,
+        0.833,
+        0.984,
+        0,
+        1.033,
+        0,
+        2,
+        1.967,
+        0,
+        0,
+        2.033,
+        0.047,
+        0,
+        2.1,
+        0.02,
+        0,
+        2.167,
+        0.122,
+        0,
+        2.233,
+        0.008,
+        0,
+        2.3,
+        0.761,
+        0,
+        2.567,
+        0.047,
+        0,
+        2.767,
+        0.498,
+        0,
+        2.833,
+        0.004,
+        0,
+        2.967,
+        0.816,
+        0,
+        3.1,
+        0.58,
+        0,
+        3.167,
+        0.612,
+        0,
+        3.233,
+        0.294,
+        0,
+        3.367,
+        0.769,
+        0,
+        3.567,
+        0,
+        2,
+        4.233,
+        0,
+        2,
+        5.633,
+        0
+      ]
+    },
     {
       "Target": "Parameter",
       "Id": "ParamAngleX",
@@ -469,7 +560,7 @@
         0,
         0,
         5.133,
-        -5,
+        -2,
         0,
         5.633,
         0
@@ -500,7 +591,11 @@
         -30,
         0.6,
         -30,
-        0,
+        1,
+        0.633,
+        -30,
+        0.667,
+        30,
         0.7,
         30,
         1,
@@ -609,85 +704,6 @@
         5.4,
         1,
         0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "gaoguangdaxiao",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        0.367,
-        1,
-        0,
-        0.633,
-        0,
-        0,
-        0.667,
-        1,
-        2,
-        0.9,
-        1,
-        0,
-        1.267,
-        0,
-        0,
-        1.567,
-        1,
-        2,
-        1.767,
-        1,
-        0,
-        1.8,
-        0,
-        0,
-        1.833,
-        1,
-        2,
-        1.9,
-        1,
-        0,
-        1.967,
-        0,
-        0,
-        2.033,
-        0.993,
-        2,
-        3.5,
-        0.993,
-        0,
-        3.867,
-        0,
-        0,
-        3.933,
-        1,
-        0,
-        4,
-        0,
-        0,
-        4.1,
-        1,
-        0,
-        4.167,
-        0,
-        0,
-        4.233,
-        1,
-        0,
-        4.3,
-        0,
-        0,
-        4.667,
-        1,
-        0,
-        4.967,
-        0,
-        2,
         5.633,
         0
       ]
@@ -942,25 +958,6 @@
         4.211,
         0.004,
         4.922,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "expheihua",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        0.767,
-        1,
-        2,
-        4.967,
-        1,
         0,
         5.633,
         0
@@ -1526,7 +1523,7 @@
         0.177,
         0,
         4.033,
-        0.13,
+        0.131,
         0,
         4.333,
         0.558,
@@ -1644,7 +1641,7 @@
         0.177,
         0,
         4.033,
-        0.13,
+        0.131,
         0,
         4.333,
         0.558,
@@ -1762,7 +1759,7 @@
         -0.177,
         0,
         4.033,
-        -0.13,
+        -0.131,
         0,
         4.333,
         -0.558,
@@ -2648,7 +2645,7 @@
         1,
         1,
         1.189,
-        1.52,
+        1.5,
         1.278,
         1.5,
         1.367,
@@ -3363,1839 +3360,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "manjiu2shensuo",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        1.367,
-        -0.144,
-        0,
-        1.767,
-        0.177,
-        0,
-        2.033,
-        -0.144,
-        2,
-        3.5,
-        -0.144,
-        0,
-        4.233,
-        0.177,
-        0,
-        4.967,
-        0,
-        0,
-        5.267,
-        0.177,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "MBWJJ_NSFW",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "MBWJJ_NSFWBG",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "MBWJJ_beijingliangdu",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "MBWJJ_beijingandu",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "MBWJJ_fenweiqiuSCBC",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "MBWJJ_fenweiqiuLAN",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "MBWJJ_fenweiqiuLU",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "MBWJJ_fenweiqiuHONG",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part85",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part4",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part76",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part84",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part82",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part79",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part80",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part78",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part14",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part15",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part16",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part18",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part77",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part81",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part69",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part3",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part19",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part75",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part11",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part43",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part72",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part25",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part29",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part41",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part5",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part12",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part60",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part27",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part45",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part57",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part70",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part13",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part9",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part7",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part88",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part8",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part2",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part73",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part92",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part28",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part22",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part23",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part20",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part91",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part74",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part61",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part68",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part67",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part66",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part65",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part64",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part63",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part62",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part21",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part31",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part71",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part40",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part17",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part10",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part24",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part83",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part33",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part54",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part32",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part55",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part34",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part101",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part53",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part26",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part42",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part36",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part30",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part35",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part37",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part38",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part39",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part6",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part44",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part52",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part46",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part47",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part48",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part49",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part50",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "Part51",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        2,
-        2.03,
-        1,
-        2,
-        3.5,
-        1,
-        2,
-        5.63,
-        1
-      ]
-    },
-    {
-      "Target": "Model",
-      "Id": "Opacity",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        1,
-        0,
-        5.633,
-        1
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "muyudaxiao",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -5326,45 +3490,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "lianbianxing",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "yanjingtmd",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "shetou1",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "lianxiexian",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -5405,32 +3530,6 @@
     {
       "Target": "Parameter",
       "Id": "Param23",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamHairSide",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamHairBack",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [
@@ -5729,71 +3828,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "haiou1",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "haiou2",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "haiou1guodu",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "haiou2guodu",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "xionghuxi",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "hongyun",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -5808,58 +3842,6 @@
     {
       "Target": "Parameter",
       "Id": "baisuguang",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "hongsuguang1",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "hongshugaung2",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0.741,
-        0,
-        5.633,
-        0.741
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "hongshuguang3",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0.259,
-        0,
-        5.633,
-        0.259
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "guangbang",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [
@@ -5894,45 +3876,6 @@
         0,
         5.633,
         1
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "chuanghuliangdu",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "yuntmd",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "shuigaoguanshansuo",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
       ]
     },
     {
@@ -6002,71 +3945,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "manjiuhan1",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "hanjiuhan2",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "manjiuhan3",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "manjiuhan4",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "yushua",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "EXPnudaxiao",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -6081,19 +3959,6 @@
     {
       "Target": "Parameter",
       "Id": "heilian",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "xiongbujiya",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [
@@ -6678,19 +4543,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "zuoshoudonghua",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "xiaojianniu",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -6769,19 +4621,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "Param7",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "youshounie",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -6796,19 +4635,6 @@
     {
       "Target": "Parameter",
       "Id": "fubuyy",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "fubuyyyaobai",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [
@@ -7055,19 +4881,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamAngleZz",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "boziz",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -7108,19 +4921,6 @@
     {
       "Target": "Parameter",
       "Id": "xiatijiaodu",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamBodyAngleZ",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [
@@ -7251,19 +5051,6 @@
     {
       "Target": "Parameter",
       "Id": "zongbeijingshangxia",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        5.633,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "manjiu2shangxia",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [
@@ -7705,10 +5492,6 @@
     }
   ],
   "UserData": [
-    {
-      "Time": 0.0,
-      "Value": ""
-    },
     {
       "Time": 0.167,
       "Value": ""

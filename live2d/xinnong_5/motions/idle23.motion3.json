@@ -7,9 +7,9 @@
     "AreBeziersRestricted": true,
     "FadeInTime": 0.0,
     "FadeOutTime": 0.0,
-    "CurveCount": 347,
-    "TotalSegmentCount": 1302,
-    "TotalPointCount": 1566,
+    "CurveCount": 348,
+    "TotalSegmentCount": 1303,
+    "TotalPointCount": 1567,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
@@ -4745,6 +4745,19 @@
     },
     {
       "Target": "Parameter",
+      "Id": "Param11",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        20,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "touch_drag29",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -5803,10 +5816,10 @@
       "FadeOutTime": -1.0,
       "Segments": [
         0,
-        0,
+        7,
         0,
         20,
-        0
+        7
       ]
     },
     {

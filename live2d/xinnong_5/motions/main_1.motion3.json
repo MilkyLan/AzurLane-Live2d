@@ -9,7 +9,7 @@
     "FadeOutTime": 0.0,
     "CurveCount": 400,
     "TotalSegmentCount": 1672,
-    "TotalPointCount": 2078,
+    "TotalPointCount": 2082,
     "UserDataCount": 3,
     "TotalUserDataSize": 0
   },
@@ -2538,7 +2538,7 @@
       "FadeOutTime": -1.0,
       "Segments": [
         0,
-        0,
+        7,
         2,
         0.933,
         3,
@@ -2559,10 +2559,10 @@
         2,
         2,
         14.633,
-        0,
+        7,
         2,
         15.5,
-        0
+        7
       ]
     },
     {
@@ -2588,7 +2588,11 @@
         2,
         11.467,
         15,
-        0,
+        1,
+        11.472,
+        15,
+        11.478,
+        22.5,
         11.483,
         22.5,
         2,
@@ -4821,7 +4825,11 @@
         0,
         7.6,
         -17.064,
-        0,
+        1,
+        7.65,
+        -17.064,
+        7.7,
+        17.043,
         7.75,
         17.043,
         0,
@@ -5519,6 +5527,19 @@
         13.133,
         0,
         2,
+        15.5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param11",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
         15.5,
         0
       ]
@@ -7034,19 +7055,6 @@
     {
       "Target": "Parameter",
       "Id": "Param195",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        15.5,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param11",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [

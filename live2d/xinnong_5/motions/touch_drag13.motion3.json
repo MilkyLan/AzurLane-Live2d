@@ -16,6 +16,25 @@
   "Curves": [
     {
       "Target": "Parameter",
+      "Id": "Param11",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        2,
+        1.333,
+        0,
+        0,
+        1.5,
+        10,
+        2,
+        2.5,
+        10
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "All_X",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -693,25 +712,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "Param11",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        2,
-        1.333,
-        0,
-        0,
-        1.5,
-        10,
-        2,
-        2.5,
-        10
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "Param9",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
@@ -966,10 +966,10 @@
         5.5,
         0,
         1.5,
-        0,
+        7,
         2,
         2.5,
-        0
+        7
       ]
     },
     {

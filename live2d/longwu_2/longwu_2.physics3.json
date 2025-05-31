@@ -1,10 +1,10 @@
 {
   "Version": 3,
   "Meta": {
-    "PhysicsSettingCount": 21,
-    "TotalInputCount": 42,
+    "PhysicsSettingCount": 20,
+    "TotalInputCount": 40,
     "TotalOutputCount": 59,
-    "VertexCount": 167,
+    "VertexCount": 157,
     "EffectiveForces": {
       "Gravity": {
         "X": 0,
@@ -95,10 +95,6 @@
       {
         "Id": "PhysicsSetting20",
         "Name": "Dummy20"
-      },
-      {
-        "Id": "PhysicsSetting21",
-        "Name": "Dummy21"
       }
     ]
   },
@@ -2510,144 +2506,6 @@
             "Target": "Parameter",
             "Id": "ParamAngleX"
           },
-          "Weight": 25,
-          "Type": "X",
-          "Reflect": false
-        },
-        {
-          "Source": {
-            "Target": "Parameter",
-            "Id": "ParamAngleY"
-          },
-          "Weight": 25,
-          "Type": "X",
-          "Reflect": false
-        }
-      ],
-      "Output": [],
-      "Vertices": [
-        {
-          "Position": {
-            "X": 0,
-            "Y": 0
-          },
-          "Mobility": 0.9,
-          "Delay": 0.8,
-          "Acceleration": 1,
-          "Radius": 5
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 15
-          },
-          "Mobility": 0.98,
-          "Delay": 0.8,
-          "Acceleration": 1.5,
-          "Radius": 15
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 20
-          },
-          "Mobility": 0.9,
-          "Delay": 0.8,
-          "Acceleration": 1,
-          "Radius": 5
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 25
-          },
-          "Mobility": 0.9,
-          "Delay": 0.8,
-          "Acceleration": 1,
-          "Radius": 5
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 30
-          },
-          "Mobility": 0.9,
-          "Delay": 0.8,
-          "Acceleration": 1,
-          "Radius": 5
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 35
-          },
-          "Mobility": 0.9,
-          "Delay": 0.8,
-          "Acceleration": 1,
-          "Radius": 5
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 40
-          },
-          "Mobility": 0.9,
-          "Delay": 0.8,
-          "Acceleration": 1,
-          "Radius": 5
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 45
-          },
-          "Mobility": 0.9,
-          "Delay": 0.8,
-          "Acceleration": 1,
-          "Radius": 5
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 50
-          },
-          "Mobility": 0.9,
-          "Delay": 0.8,
-          "Acceleration": 1,
-          "Radius": 5
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 55
-          },
-          "Mobility": 0.9,
-          "Delay": 0.8,
-          "Acceleration": 1,
-          "Radius": 5
-        }
-      ],
-      "Normalization": {
-        "Position": {
-          "Minimum": -10,
-          "Default": 0,
-          "Maximum": 10
-        },
-        "Angle": {
-          "Minimum": -10,
-          "Default": 0,
-          "Maximum": 10
-        }
-      }
-    },
-    {
-      "Id": "PhysicsSetting16",
-      "Input": [
-        {
-          "Source": {
-            "Target": "Parameter",
-            "Id": "ParamAngleX"
-          },
           "Weight": 60,
           "Type": "X",
           "Reflect": false
@@ -2753,7 +2611,7 @@
       }
     },
     {
-      "Id": "PhysicsSetting17",
+      "Id": "PhysicsSetting16",
       "Input": [
         {
           "Source": {
@@ -2865,7 +2723,7 @@
       }
     },
     {
-      "Id": "PhysicsSetting18",
+      "Id": "PhysicsSetting17",
       "Input": [
         {
           "Source": {
@@ -2956,7 +2814,7 @@
       }
     },
     {
-      "Id": "PhysicsSetting19",
+      "Id": "PhysicsSetting18",
       "Input": [
         {
           "Source": {
@@ -3047,7 +2905,7 @@
       }
     },
     {
-      "Id": "PhysicsSetting20",
+      "Id": "PhysicsSetting19",
       "Input": [
         {
           "Source": {
@@ -3138,7 +2996,7 @@
       }
     },
     {
-      "Id": "PhysicsSetting21",
+      "Id": "PhysicsSetting20",
       "Input": [
         {
           "Source": {

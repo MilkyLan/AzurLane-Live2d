@@ -4,7 +4,8 @@
   "FileReferences": {
     "Moc": "pizibao_2.moc3",
     "Textures": [
-      "textures/texture_00.png"
+      "textures/texture_00.png",
+      "textures/texture_01.png"
     ],
     "DisplayInfo": null,
     "Physics": "pizibao_2.physics3.json",
@@ -207,8 +208,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
     },
     {

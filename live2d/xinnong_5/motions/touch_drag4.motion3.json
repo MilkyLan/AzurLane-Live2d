@@ -970,11 +970,11 @@
       "FadeOutTime": -1.0,
       "Segments": [
         0,
-        0,
+        7,
         2,
         1.333,
-        0,
-        0,
+        7,
+        2,
         1.5,
         5.5,
         2,
@@ -1222,6 +1222,19 @@
         2,
         2.5,
         0.9
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param11",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        2.5,
+        0
       ]
     },
     {
@@ -1760,19 +1773,6 @@
     {
       "Target": "Parameter",
       "Id": "Param195",
-      "FadeInTime": -1.0,
-      "FadeOutTime": -1.0,
-      "Segments": [
-        0,
-        0,
-        0,
-        2.5,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param11",
       "FadeInTime": -1.0,
       "FadeOutTime": -1.0,
       "Segments": [
