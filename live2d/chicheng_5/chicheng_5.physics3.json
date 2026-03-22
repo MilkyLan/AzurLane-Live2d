@@ -3,8 +3,9 @@
   "Meta": {
     "PhysicsSettingCount": 21,
     "TotalInputCount": 24,
-    "TotalOutputCount": 129,
+    "TotalOutputCount": 128,
     "VertexCount": 172,
+    "Fps": 60,
     "EffectiveForces": {
       "Gravity": {
         "X": 0,
@@ -758,17 +759,6 @@
             "Id": "Param58"
           },
           "VertexIndex": 6,
-          "Scale": 0.4,
-          "Weight": 100,
-          "Type": "Angle",
-          "Reflect": false
-        },
-        {
-          "Destination": {
-            "Target": "Parameter",
-            "Id": "Param59"
-          },
-          "VertexIndex": 7,
           "Scale": 0.4,
           "Weight": 100,
           "Type": "Angle",

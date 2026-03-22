@@ -7,8 +7,9 @@
       "textures/texture_00.png",
       "textures/texture_01.png"
     ],
-    "DisplayInfo": "aerbien_3.cdi3.json",
     "Physics": "aerbien_3.physics3.json",
+    "Pose": null,
+    "DisplayInfo": "aerbien_3.cdi3.json",
     "Motions": {
       "complete": [
         {
@@ -188,8 +189,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
     },
     {

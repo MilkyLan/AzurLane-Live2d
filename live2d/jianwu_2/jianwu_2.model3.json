@@ -6,8 +6,9 @@
     "Textures": [
       "textures/texture_00.png"
     ],
-    "DisplayInfo": "jianwu_2.cdi3.json",
     "Physics": "jianwu_2.physics3.json",
+    "Pose": null,
+    "DisplayInfo": "jianwu_2.cdi3.json",
     "Motions": {
       "complete": [
         {
@@ -182,8 +183,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
     },
     {
