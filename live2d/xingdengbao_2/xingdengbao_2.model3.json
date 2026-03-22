@@ -6,8 +6,9 @@
     "Textures": [
       "textures/texture_00.png"
     ],
-    "DisplayInfo": "xingdengbao_2.cdi3.json",
     "Physics": "xingdengbao_2.physics3.json",
+    "Pose": null,
+    "DisplayInfo": "xingdengbao_2.cdi3.json",
     "Motions": {
       "complete": [
         {
@@ -172,8 +173,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeROpen",
-        "ParamEyeLOpen"
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
       ]
     },
     {

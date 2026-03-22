@@ -1,8 +1,8 @@
 {
   "Version": 3,
-  "Name": "z23",
+  "Name": "Z23",
   "FileReferences": {
-    "Moc": "z23.moc3",
+    "Moc": "Z23.moc3",
     "Textures": [
       "textures/texture_00.png",
       "textures/texture_01.png",
@@ -10,8 +10,9 @@
       "textures/texture_03.png",
       "textures/texture_04.png"
     ],
+    "Physics": "Z23.physics3.json",
+    "Pose": null,
     "DisplayInfo": null,
-    "Physics": "z23.physics3.json",
     "Motions": {
       "complete": [
         {

@@ -6,8 +6,9 @@
     "Textures": [
       "textures/texture_00.png"
     ],
-    "DisplayInfo": null,
     "Physics": "qiye_9.physics3.json",
+    "Pose": null,
+    "DisplayInfo": null,
     "Motions": {
       "complete": [
         {
@@ -110,7 +111,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenYy"
+        "ParamMouthOpenYy",
+        "ParamMouthOpenY"
       ]
     }
   ]
