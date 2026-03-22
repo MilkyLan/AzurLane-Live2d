@@ -22,8 +22,5 @@ Live2D:
 
 #### live2d在线预览
 
-[Live2D Viewer Online](https://l2d.su) (源仓库[https://github.com/guansss/live2d-viewer-web](https://github.com/Cpk0521/CUE-live2d-Viewer))
+[Live2D Viewer Online](https://l2d.su)
 
-#### spine皮肤在线预览(日本的网站,打开很慢,推荐挂梯子)
-
-[https://naganeko.pages.dev/chibi-gif/](https://naganeko.pages.dev/chibi-gif/index38)
